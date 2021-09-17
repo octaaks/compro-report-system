@@ -1,0 +1,36 @@
+[{
+    "periode": "14-09",
+    "penjualan": "7000",
+    "pesanan": "3",
+    "ppp": "2100"
+}, {
+    "periode": "15-09",
+    "penjualan": "12000",
+    "pesanan": "5",
+    "ppp": "2400"
+}, {
+    "periode": "16-09",
+    "penjualan": "15000",
+    "pesanan": "8",
+    "ppp": "1400"
+}, {
+    "periode": "17-09",
+    "penjualan": "15000",
+    "pesanan": "6",
+    "ppp": "2500"
+}, {
+    "periode": "18-09",
+    "penjualan": "10000",
+    "pesanan": "6",
+    "ppp": "800"
+}, {
+    "periode": "19-09",
+    "penjualan": "11000",
+    "pesanan": "8",
+    "ppp": "1000"
+}, {
+    "periode": "20-09",
+    "penjualan": "18000",
+    "pesanan": "6",
+    "ppp": "3000"
+}]

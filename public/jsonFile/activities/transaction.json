@@ -1,0 +1,51 @@
+[{
+    "periode": "00:00",
+    "email": "email@gx.com",
+    "terjual": "3",
+    "ppp": "2100"
+}, {
+    "periode": "01:00",
+    "email": "bruh@gmel.com",
+    "terjual": "5",
+    "ppp": "2400"
+}, {
+    "periode": "02:00",
+    "email": "yonglek@yogs.com",
+    "terjual": "8",
+    "ppp": "1400"
+}, {
+    "periode": "03:00",
+    "email": "utopia@gm.xyz",
+    "terjual": "6",
+    "ppp": "2500"
+}, {
+    "periode": "04:00",
+    "email": "bruh@yyy.zz",
+    "terjual": "6",
+    "ppp": "800"
+}, {
+    "periode": "05:00",
+    "email": "gagaga@mgc.xyz",
+    "terjual": "8",
+    "ppp": "1000"
+}, {
+    "periode": "06:00",
+    "email": "rex@xr.rx",
+    "terjual": "6",
+    "ppp": "3000"
+}, {
+    "periode": "07:00",
+    "email": "soeharto@gmail.dor",
+    "terjual": "4",
+    "ppp": "3000"
+}, {
+    "periode": "08:00",
+    "email": "black@pink.id",
+    "terjual": "2",
+    "ppp": "3000"
+}, {
+    "periode": "09:00",
+    "email": "net@work.sync ",
+    "terjual": "3",
+    "ppp": "3000"
+}]

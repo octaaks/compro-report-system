@@ -1,0 +1,519 @@
+@media screen and (max-width : 768px) {
+    .col-md {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 100%;
+    }
+
+    .col-md-auto {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: none;
+    }
+
+    .col-md-1 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 8.33333%;
+        flex: 0 0 8.33333%;
+        max-width: 8.33333%;
+    }
+
+    .col-md-2 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 16.66667%;
+        flex: 0 0 16.66667%;
+        max-width: 16.66667%;
+    }
+
+    .col-md-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 25%;
+        flex: 0 0 25%;
+        max-width: 25%;
+        padding:5px;
+    }
+
+    .col-md-4 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 33.33333%;
+        flex: 0 0 33.33333%;
+        max-width: 33.33333%;
+        padding:0px;
+    }
+
+    .col-md-5 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 41.66667%;
+        flex: 0 0 41.66667%;
+        max-width: 41.66667%;
+    }
+
+    .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 48%;
+    }
+
+    .col-md-7 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 58.33333%;
+        flex: 0 0 58.33333%;
+        max-width: 58.33333%;
+    }
+
+    .col-md-8 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;/*66.66667*/
+        flex: 0 0 100%;/*66.66667*/
+        max-width: 100%;/*66.66667*/
+    }
+
+    .col-md-9 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+
+    .col-md-10 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 83.33333%;
+        flex: 0 0 83.33333%;
+        max-width: 83.33333%;
+    }
+
+    .col-md-11 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 91.66667%;
+        flex: 0 0 91.66667%;
+        max-width: 91.66667%;
+    }
+
+    .col-md-12 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    
+    .loading-box {
+        padding: 3px;
+        height: 50px;
+        width: 150px;
+        box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+        background-color: white;
+    }
+
+    div.count-label-green {
+        /* margin-top: 15px; */
+        margin:0px;
+        font-size: 10px;
+    } 
+
+    div#m_sortable_portlets_storeinfo {
+        margin-left: 0px;
+        margin-top: 5px;
+    }
+
+    div#m-portlet__body_storeinfo {
+        padding: 20px;
+    }
+
+    div#salesToday_block {
+        margin-left: 0px;/*25*/
+    }
+
+    .m-sub_header .m-sub_header__title {
+        display: inline-block;
+        padding: 0 25px 7px 0;
+        font-family: Roboto;
+        font-weight: 300;
+        font-size: 1.55rem;
+        font-weight: 500;
+        vertical-align: middle;
+        margin: 0px;
+        color: #3f4047;
+    }
+
+    .m-sub_header {
+        padding: 6px 20px 0 20px;
+    }
+
+    h1#tPenjualan, h1#tPesanan {
+        font-size:20px;
+    }
+
+    h4 {
+        font-size: 15px;
+        margin-left: 10px;
+    }
+
+    h5 {
+        font-size: 14.25px;
+    }
+    
+    h6#vsYesterday {
+        /* width: 53.22px; */
+        height: 24px;
+    }
+
+    h6, h7 {
+        font-size: 10.5px;
+    }
+
+    .form-control ,.btn{
+        font-size: 0.94rem;
+    }
+
+    .card-body {
+        -webkit-box-flex: 1;
+        -ms-flex: 1 1 auto;
+        flex: 1 1 auto;
+        padding: 1.25rem;
+    }
+
+    div.tab.col-md-1{
+        padding:10px;
+    }
+
+    div.tab.col-md-1 {
+        margin-left:25px;
+    }
+
+    input#periode.form-control.m-input.dropdown-toggle.col-md-4.m_selectpicker, 
+    div.dropdown.bootstrap-select.category{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+        margin-left:25px;
+    }
+
+    input#periode {
+        padding-left: 15px;
+    }
+
+    div.card-body#dashboard_graph {
+        padding: 16px 0px;
+    }
+
+    .datepicker {
+        width: 200px;/*265*/
+        height: 325px;/*286*/
+        padding: 20px;
+        z-index: 9999;
+        position:absolute;
+    }
+    
+    .datepicker td span {
+        width: 60px !important;
+        height: 40px !important;
+        margin-right: 0px !important;
+        margin-left: 15px !important;
+    }
+
+    div.card-body.pt-4 {
+        padding: 16px 0px;
+    }
+
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 55px;
+    }
+
+    svg#SvgjsSvg1006>foreignObject{
+        padding-top: 50px;
+    }
+
+    div.m-portlet__body {
+        margin-top:5px;
+    }
+
+    input#search_name.form-control.m-input--air.col-md-9{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 130%;
+        flex: 0 0 130%;
+        max-width: 130%;
+    }
+    
+    .ml-4,
+    .mx-4 {
+        margin-left: 0rem !important;
+    }
+
+    div.timeline-label {
+        font: 10px Poppins;
+    }
+
+    .font-size-lg , .timeline.timeline-6 .timeline-item .timeline-label {
+        font-size: 0.94rem; 
+    }
+}
+
+@media screen and (max-width : 375px) {
+    .col-md {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 100%;
+    }
+
+    .col-md-auto {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: none;
+    }
+
+    .col-md-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding:5px;
+    }
+
+    .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 48%;
+    }
+
+    h1#tPenjualan, h1#tPesanan {
+        font-size:15px;
+    }
+
+    h4 {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+
+    h5 {
+        font-size: 11.25px;
+    }
+    
+    h6#vsYesterday {
+        /* width: 53.22px; */
+        height: 24px;
+    }
+
+    h6, h7 {
+        font-size: 9.5px;
+    }
+
+    .font-size-lg, .timeline.timeline-6 .timeline-item .timeline-label {
+        font-size: 0.70rem; 
+    }
+
+    .m-sub_header .m-sub_header__title {
+        font-size: 1.30rem;
+    }
+
+    a.more-btn {
+        font-size: 12px;
+    }
+
+    .form-control ,.btn{
+        font-size: 0.80rem;
+    }
+
+    div.tab.col-md-1 {
+        margin-left: 18px;
+        font-size: 11.5px;
+    }
+
+    .count-green {
+        font-size: 16px;
+    }
+
+    input#periode.form-control.m-input.dropdown-toggle.col-md-4.m_selectpicker, 
+    div.dropdown.bootstrap-select.category{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 72%;
+        flex: 0 0 72%;
+        max-width: 72%;
+        margin-left:25px;
+    }
+
+    .datepicker {
+        width: 200px;/*265*/
+        height: 274.5px;/*286*/
+        padding: 15px;
+        z-index: 9999;
+        position:absolute;
+    }
+
+    .datepicker td span {
+        width: 60px !important;
+        height: 27px !important;
+        margin-right: 0px !important;
+        margin-left: 15px !important;
+    }
+
+    .datepicker table tr td span {
+        line-height: 30px;
+    }
+
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 55px;
+    }
+
+    div.calendarHodler{
+        padding-left: 0%;
+    }
+
+    .datepicker.datepicker-inline.calendarHolder {
+        margin-left: -8px;
+    }
+
+    .timeline.timeline-6:before {
+        left: 85.5px;
+    }
+
+    .timeline.timeline-6 .timeline-item .timeline-label {
+        width: 85px;
+    }
+}
+
+@media screen and (max-width : 280px) {
+    .col-md {
+        -ms-flex-preferred-size: 0;
+        flex-basis: 0;
+        -webkit-box-flex: 1;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        max-width: 100%;
+    }
+
+    .col-md-auto {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 auto;
+        flex: 0 0 auto;
+        width: auto;
+        max-width: none;
+    }
+
+    .col-md-3 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 50%;
+        padding:5px;
+    }
+
+    .col-md-6 {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 50%;
+        flex: 0 0 50%;
+        max-width: 48%;
+    }
+
+    h1#tPenjualan, h1#tPesanan {
+        font-size:14px;
+    }
+
+    h4 {
+        font-size: 12px;
+        margin-left: 3px;
+    }
+
+    h5 {
+        font-size: 11.25px;
+    }
+
+    h6#vsYesterday {
+        /* width: 53.22px; */
+        height: 24px;
+    }
+
+    h6, h7 {
+        font-size: 9.5px;
+    }
+
+    .font-size-lg, .timeline.timeline-6 .timeline-item .timeline-label {
+        font-size: 0.70rem; 
+    }
+
+    .m-sub_header .m-sub_header__title {
+        font-size: 1.30rem;
+    }
+
+    a.more-btn {
+        font-size: 12px;
+    }
+
+    .form-control ,.btn{
+        font-size: 0.75rem;
+    }
+
+    div.tab.col-md-1 {
+        margin-left: 18px;
+        font-size: 11.5px;
+    }
+
+    .count-green {
+        font-size: 16px;
+    }
+
+    input#periode.form-control.m-input.dropdown-toggle.col-md-4.m_selectpicker, 
+    div.dropdown.bootstrap-select.category{
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 100%;
+        margin-left:25px;
+    }
+
+    .datepicker {
+        width: 200px;/*265*/
+        height: 274.5px;/*286*/
+        padding: 15px;
+        z-index: 9999;
+        position:absolute;
+    }
+
+    .datepicker td span {
+        width: 60px !important;
+        height: 27px !important;
+        margin-right: 0px !important;
+        margin-left: 15px !important;
+    }
+
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 55px;
+    }
+
+    div.calendarHodler{
+        padding-left: 0%;
+    }
+
+    .datepicker.datepicker-inline.calendarHolder {
+        margin-left: -45px;
+    }
+
+    .datepicker table tr td span {
+        line-height: 30px;
+    }
+
+    .timeline.timeline-6:before {
+        left: 73.5px;
+    }
+
+    .timeline.timeline-6 .timeline-item .timeline-label {
+        width: 73px;
+    }
+
+    .pl-3, .px-3 {
+        padding-left: 0.4rem !important;
+    }
+}

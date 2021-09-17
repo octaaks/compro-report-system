@@ -1,0 +1,510 @@
+{
+    "result": "success",
+    "meta": {
+        "page": 1,
+        "pages": 5,
+        "perpage": "50",
+        "total": 250
+    },
+    "data": [{
+        "id": 536093,
+        "title": "A new user has registered in your app",
+        "content": "A new user apa with email: apa@gmail.com recently registered.",
+        "company_id": 61373,
+        "url": "user-list\/61373",
+        "read": 1,
+        "created_at": "2020-10-02 21:26:25",
+        "updated_at": "2020-10-05 06:41:49",
+        "deleted_at": null
+    }, {
+        "id": 536088,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-10-02 15:22:35",
+        "updated_at": "2020-10-02 08:22:35",
+        "deleted_at": null
+    }, {
+        "id": 536087,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-10-01 22:44:48",
+        "updated_at": "2020-10-01 15:44:48",
+        "deleted_at": null
+    }, {
+        "id": 536085,
+        "title": "A new user has registered in your app",
+        "content": "A new user qweqwess with email: robimaulanatamfansekali@gmail.com recently registered.",
+        "company_id": 61373,
+        "url": "user-list\/61373",
+        "read": 1,
+        "created_at": "2020-09-28 20:13:53",
+        "updated_at": "2020-09-30 02:05:27",
+        "deleted_at": null
+    }, {
+        "id": 536084,
+        "title": "A user has responded to your post.",
+        "content": "A user has responded to your post titled 'Form' on 'Form'",
+        "company_id": 61373,
+        "url": "app-content\/view\/detail-post\/61373\/1789482",
+        "read": 0,
+        "created_at": "2020-09-24 19:16:29",
+        "updated_at": "2020-09-24 12:16:29",
+        "deleted_at": null
+    }, {
+        "id": 536083,
+        "title": "A user has responded to your post.",
+        "content": "A user has responded to your post titled 'Form' on 'Form'",
+        "company_id": 61373,
+        "url": "app-content\/view\/detail-post\/61373\/1789482",
+        "read": 0,
+        "created_at": "2020-09-24 19:03:24",
+        "updated_at": "2020-09-24 12:03:24",
+        "deleted_at": null
+    }, {
+        "id": 536082,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-24 17:48:40",
+        "updated_at": "2020-09-24 10:48:40",
+        "deleted_at": null
+    }, {
+        "id": 536081,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-24 17:48:11",
+        "updated_at": "2020-09-24 10:48:11",
+        "deleted_at": null
+    }, {
+        "id": 536080,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-24 16:26:05",
+        "updated_at": "2020-09-24 09:26:05",
+        "deleted_at": null
+    }, {
+        "id": 536079,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 23:20:42",
+        "updated_at": "2020-09-23 16:20:42",
+        "deleted_at": null
+    }, {
+        "id": 536078,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 23:19:29",
+        "updated_at": "2020-09-23 16:19:29",
+        "deleted_at": null
+    }, {
+        "id": 536077,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 22:46:53",
+        "updated_at": "2020-09-23 15:46:53",
+        "deleted_at": null
+    }, {
+        "id": 536076,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 01:17:58",
+        "updated_at": "2020-09-22 18:17:58",
+        "deleted_at": null
+    }, {
+        "id": 536075,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 01:03:07",
+        "updated_at": "2020-09-22 18:03:07",
+        "deleted_at": null
+    }, {
+        "id": 536074,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 00:44:05",
+        "updated_at": "2020-09-22 17:44:05",
+        "deleted_at": null
+    }, {
+        "id": 536073,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-23 00:40:51",
+        "updated_at": "2020-09-22 17:40:51",
+        "deleted_at": null
+    }, {
+        "id": 536072,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-22 22:15:12",
+        "updated_at": "2020-09-22 15:15:12",
+        "deleted_at": null
+    }, {
+        "id": 536071,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-22 22:01:07",
+        "updated_at": "2020-09-22 15:01:07",
+        "deleted_at": null
+    }, {
+        "id": 536070,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-22 21:53:57",
+        "updated_at": "2020-09-22 14:53:57",
+        "deleted_at": null
+    }, {
+        "id": 536068,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-21 23:40:36",
+        "updated_at": "2020-09-21 16:40:36",
+        "deleted_at": null
+    }, {
+        "id": 536067,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: willsen.office@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-21 23:38:42",
+        "updated_at": "2020-09-21 16:38:42",
+        "deleted_at": null
+    }, {
+        "id": 536065,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:39:23",
+        "updated_at": "2020-09-17 21:39:23",
+        "deleted_at": null
+    }, {
+        "id": 536064,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:38:52",
+        "updated_at": "2020-09-17 21:38:52",
+        "deleted_at": null
+    }, {
+        "id": 536063,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:33:43",
+        "updated_at": "2020-09-17 21:33:43",
+        "deleted_at": null
+    }, {
+        "id": 536062,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:29:19",
+        "updated_at": "2020-09-17 21:29:19",
+        "deleted_at": null
+    }, {
+        "id": 536061,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:07:40",
+        "updated_at": "2020-09-17 21:07:40",
+        "deleted_at": null
+    }, {
+        "id": 536060,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:06:42",
+        "updated_at": "2020-09-17 21:06:42",
+        "deleted_at": null
+    }, {
+        "id": 536059,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 04:01:45",
+        "updated_at": "2020-09-17 21:01:45",
+        "deleted_at": null
+    }, {
+        "id": 536058,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 03:47:37",
+        "updated_at": "2020-09-17 20:47:37",
+        "deleted_at": null
+    }, {
+        "id": 536057,
+        "title": "RB20200917000026 has uploaded a transfer receipt",
+        "content": "RB20200917000026 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/26",
+        "read": 0,
+        "created_at": "2020-09-18 03:33:36",
+        "updated_at": "2020-09-17 20:33:36",
+        "deleted_at": null
+    }, {
+        "id": 536056,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 03:25:20",
+        "updated_at": "2020-09-17 20:25:20",
+        "deleted_at": null
+    }, {
+        "id": 536055,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 02:01:34",
+        "updated_at": "2020-09-17 19:01:34",
+        "deleted_at": null
+    }, {
+        "id": 536054,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 01:45:12",
+        "updated_at": "2020-09-17 18:45:12",
+        "deleted_at": null
+    }, {
+        "id": 536053,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 01:44:38",
+        "updated_at": "2020-09-17 18:44:38",
+        "deleted_at": null
+    }, {
+        "id": 536052,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:57:34",
+        "updated_at": "2020-09-17 17:57:34",
+        "deleted_at": null
+    }, {
+        "id": 536051,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:57:06",
+        "updated_at": "2020-09-17 17:57:06",
+        "deleted_at": null
+    }, {
+        "id": 536050,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:56:48",
+        "updated_at": "2020-09-17 17:56:48",
+        "deleted_at": null
+    }, {
+        "id": 536049,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:55:56",
+        "updated_at": "2020-09-17 17:55:56",
+        "deleted_at": null
+    }, {
+        "id": 536048,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:46:22",
+        "updated_at": "2020-09-17 17:46:22",
+        "deleted_at": null
+    }, {
+        "id": 536047,
+        "title": "RB20200917000027 has uploaded a transfer receipt",
+        "content": "RB20200917000027 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/27",
+        "read": 0,
+        "created_at": "2020-09-18 00:38:13",
+        "updated_at": "2020-09-17 17:38:13",
+        "deleted_at": null
+    }, {
+        "id": 536046,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-18 00:37:21",
+        "updated_at": "2020-09-17 17:37:21",
+        "deleted_at": null
+    }, {
+        "id": 536045,
+        "title": "RB20200916000022 has uploaded a transfer receipt",
+        "content": "RB20200916000022 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/22",
+        "read": 0,
+        "created_at": "2020-09-18 00:36:03",
+        "updated_at": "2020-09-17 17:36:03",
+        "deleted_at": null
+    }, {
+        "id": 536044,
+        "title": "RB20200917000026 has uploaded a transfer receipt",
+        "content": "RB20200917000026 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/26",
+        "read": 0,
+        "created_at": "2020-09-18 00:19:13",
+        "updated_at": "2020-09-17 17:19:13",
+        "deleted_at": null
+    }, {
+        "id": 536043,
+        "title": "RB20200916000024 has uploaded a transfer receipt",
+        "content": "RB20200916000024 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/24",
+        "read": 0,
+        "created_at": "2020-09-18 00:19:07",
+        "updated_at": "2020-09-17 17:19:07",
+        "deleted_at": null
+    }, {
+        "id": 536042,
+        "title": "RB20200916000024 has uploaded a transfer receipt",
+        "content": "RB20200916000024 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/24",
+        "read": 0,
+        "created_at": "2020-09-17 21:22:21",
+        "updated_at": "2020-09-17 14:22:21",
+        "deleted_at": null
+    }, {
+        "id": 536041,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: testing@gmail.com has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-17 21:03:31",
+        "updated_at": "2020-09-17 14:03:31",
+        "deleted_at": null
+    }, {
+        "id": 536040,
+        "title": "TR20200901113162 has uploaded a transfer receipt",
+        "content": "TR20200901113162 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/113162",
+        "read": 0,
+        "created_at": "2020-09-17 17:09:58",
+        "updated_at": "2020-09-17 10:09:58",
+        "deleted_at": null
+    }, {
+        "id": 536035,
+        "title": "A new transaction order has arrived.",
+        "content": "A new transaction order from a user with email: admin@compro.id has arrived.",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/61373",
+        "read": 0,
+        "created_at": "2020-09-17 09:13:00",
+        "updated_at": "2020-09-17 02:13:00",
+        "deleted_at": null
+    }, {
+        "id": 536034,
+        "title": "RB20200916000024 has uploaded a transfer receipt",
+        "content": "RB20200916000024 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/24",
+        "read": 0,
+        "created_at": "2020-09-17 02:50:37",
+        "updated_at": "2020-09-16 19:50:37",
+        "deleted_at": null
+    }, {
+        "id": 536033,
+        "title": "RB20200916000024 has uploaded a transfer receipt",
+        "content": "RB20200916000024 has uploaded a transfer receipt from a user with email: testing@gmail.com",
+        "company_id": 61373,
+        "url": "shopping\/transaction\/detail\/61373\/24",
+        "read": 0,
+        "created_at": "2020-09-17 02:46:21",
+        "updated_at": "2020-09-16 19:46:21",
+        "deleted_at": null
+    }]
+}

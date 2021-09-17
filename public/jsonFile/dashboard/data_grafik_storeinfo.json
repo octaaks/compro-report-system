@@ -1,0 +1,121 @@
+[{
+    "periode": "00:00",
+    "transaksi": "1",
+    "terjual": "3",
+    "ppp": "2100"
+}, {
+    "periode": "01:00",
+    "transaksi": "2",
+    "terjual": "5",
+    "ppp": "2400"
+}, {
+    "periode": "02:00",
+    "transaksi": "5",
+    "terjual": "8",
+    "ppp": "1400"
+}, {
+    "periode": "03:00",
+    "transaksi": "1",
+    "terjual": "6",
+    "ppp": "2500"
+}, {
+    "periode": "04:00",
+    "transaksi": "1",
+    "terjual": "6",
+    "ppp": "800"
+}, {
+    "periode": "05:00",
+    "transaksi": "7",
+    "terjual": "8",
+    "ppp": "1000"
+}, {
+    "periode": "06:00",
+    "transaksi": "1",
+    "terjual": "6",
+    "ppp": "3000"
+}, {
+    "periode": "07:00",
+    "transaksi": "3",
+    "terjual": "4",
+    "ppp": "3000"
+}, {
+    "periode": "08:00",
+    "transaksi": "1",
+    "terjual": "2",
+    "ppp": "3000"
+}, {
+    "periode": "09:00",
+    "transaksi": "6",
+    "terjual": "3",
+    "ppp": "3000"
+}, {
+    "periode": "10:00",
+    "transaksi": "1",
+    "terjual": "7",
+    "ppp": "3000"
+}, {
+    "periode": "11:00",
+    "transaksi": "5",
+    "terjual": "9",
+    "ppp": "3000"
+}, {
+    "periode": "12:00",
+    "transaksi": "8",
+    "terjual": "12",
+    "ppp": "3000"
+}, {
+    "periode": "13:00",
+    "transaksi": "1",
+    "terjual": "6",
+    "ppp": "3000"
+}, {
+    "periode": "14:00",
+    "transaksi": "8",
+    "terjual": "10",
+    "ppp": "3000"
+}, {
+    "periode": "15:00",
+    "transaksi": "9",
+    "terjual": "12",
+    "ppp": "3000"
+}, {
+    "periode": "16:00",
+    "transaksi": "1",
+    "terjual": "2",
+    "ppp": "3000"
+}, {
+    "periode": "17:00",
+    "transaksi": "2",
+    "terjual": "4",
+    "ppp": "3000"
+}, {
+    "periode": "18:00",
+    "transaksi": "10",
+    "terjual": "14",
+    "ppp": "3000"
+}, {
+    "periode": "19:00",
+    "transaksi": "1",
+    "terjual": "1",
+    "ppp": "3000"
+}, {
+    "periode": "20:00",
+    "transaksi": "5",
+    "terjual": "6",
+    "ppp": "3000"
+}, {
+    "periode": "21:00",
+    "transaksi": "6",
+    "terjual": "7",
+    "ppp": "3000"
+}, {
+    "periode": "22:00",
+    "transaksi": "7",
+    "terjual": "8",
+    "ppp": "3000"
+}, {
+    "periode": "23:00",
+    "transaksi": "9",
+    "terjual": "11",
+    "ppp": "6000"
+}]

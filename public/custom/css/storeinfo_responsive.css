@@ -1,0 +1,470 @@
+div#dp,div#week-picker-wrapper, div#mp, div#yp {
+    margin-left: 255px;
+}
+
+.calendarHolder{
+    margin-top: 16%;
+    position: absolute;
+    z-index: 10;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(61, 44, 44, 0.2);
+}
+
+.m-sub_header {
+    padding: 30px 20px 0 20px;
+}
+
+.row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.col-sm-8{
+    position: relative;
+    max-width: 60%;
+    padding-right: 5px;
+    padding-left: 0px;
+}
+
+.download-label{
+    display: inline;
+}
+.download-icon{
+    display: none;
+}
+
+
+.filter-item{
+    width: 100%;
+    white-space: nowrap;
+}
+
+.periode-dropdown{
+    margin-top: 5px;
+}
+
+.status-dropdown{
+    margin-top: 5px;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 500;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: 0.85rem 1.15rem;
+    font-size: 1rem;
+    line-height: 1.25;
+}
+
+.filter-item-download{
+    margin-top: 0px;
+    display: inline-block;
+    float: right;
+}
+
+@media screen and (max-width: 1024px) {
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 250px;
+    }
+
+    .filter-item-download{
+        margin-top: 0px;
+        display: inline-block;
+        float: right;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 215px;
+    }
+
+    .filter-item-download{
+        /* margin-top: 20px; */
+        display: inline-block;
+        align-self: right;
+    }
+}
+
+@media screen and (max-width: 767px) {
+
+    .filter-item-download{
+        margin-top: 20px;
+        display: inline-block;
+        align-self: right;
+    }
+
+    .download-text{
+        width: auto;
+    }
+
+    .m-portlet {
+        margin-bottom: 1.5rem;
+    }
+
+    .apexcharts-toolbar {
+        position: absolute;
+        z-index: 0;
+        max-width: 176px;
+        text-align: left;
+        border-radius: 3px;
+        padding: 0px 6px 2px 6px;
+        display: flex;
+        justify-content: space-between;
+        align-items: left;
+        top: 0px;
+        /* right: 3px; */
+    }
+
+	.tab {
+        display: flex;
+        justify-content: left;
+        /* align-items: center; */
+        z-index: 0;
+    }
+
+    .float-right {
+        float: right !important;
+        /* display: none */
+    }
+
+    .storeinfo {
+        max-width: auto;
+        padding: 15px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+        transition: 0.3s;
+        border-radius: 5px;
+        background-color: white;
+        border-width: 2px;
+        border-style: solid;
+    }
+
+    .storeinfo-content{
+        margin-top:12px;
+    }
+
+    .col-sm-1{
+        position: relative;
+        max-width: 10%;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+    .col-sm-4{
+        position: relative;
+        max-width: 33.3333%;
+        padding-right: 5px;
+        padding-left: 5px;
+    }
+
+    .col-sm-8{
+        position: relative;
+        max-width: 60%;
+        padding-right: 5px;
+        padding-left: 0px;
+    }
+    .col-sm-9{
+        position: relative;
+        max-width: 90%;
+        padding-right: 10px;
+        padding-left: 20px;
+    }
+
+    h3, .h3 {
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
+
+    h4, .h4 {
+        font-size: 1.2rem;
+    }
+
+    h5, .h5 {
+        font-size: 1.1rem;
+    }
+
+    h6, .h6 {
+        font-size: 1rem;
+    }
+
+    .h7 {
+        font-size: 0.9rem;
+    }
+
+    .row {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+
+
+    .loading-box {
+        padding: 3px;
+        height: 50px;
+        width: 150px;
+        box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+        background-color: white;
+    }
+
+    .labelPeriode{
+        margin:5px;
+        color: #828282;
+    }
+
+    .loader {
+        font-size: 12px;
+        margin: 5px auto;
+        text-indent: -9999em;
+        width: 12px;
+        height: 12px;
+        position: relative;
+    }
+
+    .dropdown-item {
+        display: block;
+        width: 100%;
+        padding: 0.25rem 1.5rem;
+        clear: both;
+        font-weight: 400;
+        color: #212529;
+        text-align: inherit;
+
+        font-size: 1rem;
+        white-space: nowrap;
+        background-color: transparent;
+        border: 0;
+    }
+
+    .dropdown-item{
+        font-size: 0.8rem;
+    }
+
+    .m-portlet .m-portlet__body {
+        padding: 1.5rem 1.5rem;
+        margin-top: 10px;
+    }
+}
+@media screen and (max-width: 666px) {
+
+    .m-portlet .m-portlet__body {
+        padding: 0.8rem 0.8rem;
+        margin-top: 8px;
+    }
+
+    .download-label{
+        display: none;
+    }
+    .download-icon{
+        display: inline;
+    }
+
+
+    h3, .h3 {
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    h5, .h5 {
+        font-size: 0.6rem;
+    }
+
+    h6, .h6 {
+        font-size: 0.6rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+
+    div#dp,div#week-picker-wrapper, div#mp, div#yp {
+        margin-left: 0px;
+        z-index: 9999;
+        position:absolute;
+    }
+
+    /* .calendarHolder{
+        padding-right: 29%;
+        margin-top: 0%;
+    } */
+    
+    .calendarHolder{
+        margin-top: 44%;
+        position: absolute;
+        z-index: 10;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(61, 44, 44, 0.2);
+    }
+
+    .btn {
+        display: inline-block;
+        font-weight: 500;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        border: 1px solid transparent;
+        padding: 0.80rem 1.5rem;
+        font-size: 1rem;
+        line-height: 1.25;
+        margin-bottom: 3px;
+    }
+
+    .col-5{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .col-4{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .col-3{
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .filter-item{
+        width: 100%;
+        align-items: flex-end;
+    }
+
+    .filter-item-periode{
+        /* display: inline-block; */
+        max-width: 100%;
+    }
+    .filter-item-status{
+        /* display: inline-block; */
+        max-width: 100%;
+    }
+
+    .filter-option-inner{
+        font-size: 0.9rem;
+    }
+
+    .m-portlet .m-portlet__body {
+        padding: 0.8rem 0.8rem;
+        margin-top: 8px;
+    }
+
+    .m-portlet {
+        margin-bottom: 1rem;
+    }
+
+    .storeinfo {
+        max-width: auto;
+        padding: 7px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
+        transition: 0.3s;
+        border-radius: 5px;
+        background-color: white;
+        border-width: 1.2px;
+        border-style: solid;
+    }
+
+    .storeinfo-content{
+        margin-top:15px;
+    }
+
+    h3, .h3 {
+        font-size: 1rem;
+        font-weight: 600;
+    }
+
+    h5, .h5 {
+        font-size: 0.6rem;
+    }
+
+    h6, .h6 {
+        font-size: 0.6rem;
+    }
+
+    .dropdown-item{
+        font-size: 0.8rem;
+    }
+
+    .col-sm-4{
+        position: relative;
+        max-width: 33.3333%;
+        padding-right: 2px;
+        padding-left: 2px;
+    }
+
+    .col-sm-8{
+        position: relative;
+        max-width: 60%;
+        padding-right: 5px;
+        padding-left: 0px;
+    }
+
+    .m-sub_header .m-sub_header__title {
+        display: inline-block;
+        padding: 0 25px 7px 0;
+        font-family: Roboto;
+        font-weight: 300;
+        font-size: 1.55rem;
+        font-weight: 500;
+        vertical-align: middle;
+        margin: 15 15px 0 0;
+        color: #3f4047;
+    }
+
+    .graph-holder{
+        margin-top: 0px;
+    }
+}
+@media screen and (max-width: 375px) {
+
+    .calendarHolder{
+        margin-top: 0px;
+        position: absolute;
+        z-index: 10;
+        background-color: white;
+        box-shadow: 0 4px 8px 0 rgba(61, 44, 44, 0.2);
+    }
+
+    .filter-item-periode{
+        display: inline-block;
+        max-width: 100%;
+    }
+    .filter-item-status{
+        display: inline-block;
+        max-width: 100%;
+    }
+
+    h3, .h3 {
+        font-size: 0.8rem;
+        font-weight: 600;
+    }
+
+    h4, .h4 {
+        font-size: 1rem;
+        font-weight: 450;
+    }
+
+    h5, .h5 {
+        font-size: 0.6rem;
+    }
+
+    h6, .h6 {
+        font-size: 0.6rem;
+    }
+
+    .btn {
+        /* display: inline-block; */
+        font-weight: 500;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        border: 1px solid transparent;
+        padding: 0.85rem 1.15rem;
+        font-size: 1rem;
+        line-height: 1.25;
+    }
+}

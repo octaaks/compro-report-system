@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "company_id": "5f6d6ca28820b7f167b0a6f1",
+      "name": "product2",
+      "price": 40000
+    },
+    {
+      "id": 2,
+      "company_id": "5f6d6ca2ee0d22329b997175",
+      "name": "product1",
+      "price": 30000
+    },
+    {
+      "id": 3,
+      "company_id": "5f6d6ca29f05be68f9fc4b73",
+      "name": "product2",
+      "price": 40000
+    },
+    {
+      "id": 4,
+      "company_id": "5f6d6ca245bb7c7099da0307",
+      "name": "product2",
+      "price": 40000
+    },
+    {
+      "id": 5,
+      "company_id": "5f6d6ca27a8529cc2d164ea7",
+      "name": "product3",
+      "price": 100000
+    }
+  ]

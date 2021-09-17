@@ -1,0 +1,27 @@
+<?php
+
+namespace App\Http\Middleware;
+
+use Closure;
+use Illuminate\Support\Facades\App;
+
+class SetLocale
+{
+    /**
+     * Handle an incoming request.
+     *
+     * @param  \Illuminate\Http\Request  $request
+     * @param  \Closure  $next
+     * @return mixed
+     */
+    // private $locales = ['en', 'es', 'fr', 'id', 'km', 'zh-Hans'];
+
+    public function handle($request, Closure $next)
+    {
+        if ($request->session()->has('locale')) {
+            App::setLocale($request->session()->get('locale'));
+        }
+        
+        return $next($request);
+    }
+}

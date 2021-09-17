@@ -1,0 +1,6001 @@
+[{
+        "id": 1,
+        "date_time": "2020-08-15 07:58:05",
+        "penjualan": "32711.20",
+        "pesanan": 16
+    },
+    {
+        "id": 2,
+        "date_time": "2020-11-01 04:43:06",
+        "penjualan": "69405.55",
+        "pesanan": 19
+    },
+    {
+        "id": 3,
+        "date_time": "2020-09-07 11:18:00",
+        "penjualan": "22502.86",
+        "pesanan": 20
+    },
+    {
+        "id": 4,
+        "date_time": "2020-09-30 14:34:14",
+        "penjualan": "24455.51",
+        "pesanan": 19
+    },
+    {
+        "id": 5,
+        "date_time": "2020-08-16 10:24:39",
+        "penjualan": "97856.30",
+        "pesanan": 10
+    },
+    {
+        "id": 6,
+        "date_time": "2020-10-27 14:15:03",
+        "penjualan": "68799.46",
+        "pesanan": 10
+    },
+    {
+        "id": 7,
+        "date_time": "2020-08-26 14:17:46",
+        "penjualan": "67602.21",
+        "pesanan": 16
+    },
+    {
+        "id": 8,
+        "date_time": "2020-10-19 02:59:10",
+        "penjualan": "39340.06",
+        "pesanan": 13
+    },
+    {
+        "id": 9,
+        "date_time": "2020-11-16 05:59:40",
+        "penjualan": "70252.10",
+        "pesanan": 16
+    },
+    {
+        "id": 10,
+        "date_time": "2020-09-12 11:08:54",
+        "penjualan": "35060.27",
+        "pesanan": 19
+    },
+    {
+        "id": 11,
+        "date_time": "2020-09-23 23:50:04",
+        "penjualan": "24097.55",
+        "pesanan": 17
+    },
+    {
+        "id": 12,
+        "date_time": "2020-10-10 06:31:43",
+        "penjualan": "28694.03",
+        "pesanan": 17
+    },
+    {
+        "id": 13,
+        "date_time": "2020-10-24 19:45:11",
+        "penjualan": "94592.52",
+        "pesanan": 20
+    },
+    {
+        "id": 14,
+        "date_time": "2020-08-09 22:39:00",
+        "penjualan": "21600.18",
+        "pesanan": 14
+    },
+    {
+        "id": 15,
+        "date_time": "2020-11-22 04:11:04",
+        "penjualan": "94574.26",
+        "pesanan": 16
+    },
+    {
+        "id": 16,
+        "date_time": "2020-10-13 02:39:20",
+        "penjualan": "41712.56",
+        "pesanan": 20
+    },
+    {
+        "id": 17,
+        "date_time": "2020-09-14 00:09:28",
+        "penjualan": "43509.69",
+        "pesanan": 14
+    },
+    {
+        "id": 18,
+        "date_time": "2020-09-18 14:39:49",
+        "penjualan": "36312.59",
+        "pesanan": 18
+    },
+    {
+        "id": 19,
+        "date_time": "2020-10-11 14:59:26",
+        "penjualan": "77716.10",
+        "pesanan": 11
+    },
+    {
+        "id": 20,
+        "date_time": "2020-09-22 04:25:19",
+        "penjualan": "66746.23",
+        "pesanan": 11
+    },
+    {
+        "id": 21,
+        "date_time": "2020-08-24 12:41:23",
+        "penjualan": "72614.34",
+        "pesanan": 13
+    },
+    {
+        "id": 22,
+        "date_time": "2020-11-21 13:36:18",
+        "penjualan": "75616.08",
+        "pesanan": 16
+    },
+    {
+        "id": 23,
+        "date_time": "2020-11-13 03:39:14",
+        "penjualan": "77778.63",
+        "pesanan": 12
+    },
+    {
+        "id": 24,
+        "date_time": "2020-08-11 00:15:37",
+        "penjualan": "30199.95",
+        "pesanan": 15
+    },
+    {
+        "id": 25,
+        "date_time": "2020-09-19 07:50:56",
+        "penjualan": "15032.15",
+        "pesanan": 10
+    },
+    {
+        "id": 26,
+        "date_time": "2020-08-15 18:21:54",
+        "penjualan": "33191.75",
+        "pesanan": 16
+    },
+    {
+        "id": 27,
+        "date_time": "2020-09-26 17:33:12",
+        "penjualan": "82705.62",
+        "pesanan": 17
+    },
+    {
+        "id": 28,
+        "date_time": "2020-08-03 02:57:52",
+        "penjualan": "61831.46",
+        "pesanan": 16
+    },
+    {
+        "id": 29,
+        "date_time": "2020-08-19 10:31:05",
+        "penjualan": "52954.69",
+        "pesanan": 19
+    },
+    {
+        "id": 30,
+        "date_time": "2020-09-16 13:42:17",
+        "penjualan": "75009.77",
+        "pesanan": 12
+    },
+    {
+        "id": 31,
+        "date_time": "2020-10-01 10:02:09",
+        "penjualan": "70935.27",
+        "pesanan": 13
+    },
+    {
+        "id": 32,
+        "date_time": "2020-10-18 12:37:23",
+        "penjualan": "77802.86",
+        "pesanan": 12
+    },
+    {
+        "id": 33,
+        "date_time": "2020-08-04 09:04:01",
+        "penjualan": "57602.73",
+        "pesanan": 16
+    },
+    {
+        "id": 34,
+        "date_time": "2020-11-18 13:30:14",
+        "penjualan": "97357.60",
+        "pesanan": 15
+    },
+    {
+        "id": 35,
+        "date_time": "2020-11-06 05:39:02",
+        "penjualan": "19721.21",
+        "pesanan": 12
+    },
+    {
+        "id": 36,
+        "date_time": "2020-08-26 04:10:57",
+        "penjualan": "44522.93",
+        "pesanan": 12
+    },
+    {
+        "id": 37,
+        "date_time": "2020-08-13 01:01:33",
+        "penjualan": "50471.42",
+        "pesanan": 12
+    },
+    {
+        "id": 38,
+        "date_time": "2020-11-23 17:31:36",
+        "penjualan": "77248.37",
+        "pesanan": 11
+    },
+    {
+        "id": 39,
+        "date_time": "2020-11-24 12:16:17",
+        "penjualan": "99857.97",
+        "pesanan": 11
+    },
+    {
+        "id": 40,
+        "date_time": "2020-10-11 19:37:50",
+        "penjualan": "14233.27",
+        "pesanan": 19
+    },
+    {
+        "id": 41,
+        "date_time": "2020-09-27 06:28:28",
+        "penjualan": "95793.67",
+        "pesanan": 19
+    },
+    {
+        "id": 42,
+        "date_time": "2020-11-07 16:36:31",
+        "penjualan": "93372.71",
+        "pesanan": 14
+    },
+    {
+        "id": 43,
+        "date_time": "2020-10-19 12:14:32",
+        "penjualan": "38991.13",
+        "pesanan": 16
+    },
+    {
+        "id": 44,
+        "date_time": "2020-11-28 11:56:00",
+        "penjualan": "31978.44",
+        "pesanan": 10
+    },
+    {
+        "id": 45,
+        "date_time": "2020-10-03 08:19:24",
+        "penjualan": "18531.73",
+        "pesanan": 17
+    },
+    {
+        "id": 46,
+        "date_time": "2020-10-13 07:11:17",
+        "penjualan": "19714.76",
+        "pesanan": 11
+    },
+    {
+        "id": 47,
+        "date_time": "2020-09-27 06:08:59",
+        "penjualan": "66656.02",
+        "pesanan": 15
+    },
+    {
+        "id": 48,
+        "date_time": "2020-08-29 16:25:57",
+        "penjualan": "78487.44",
+        "pesanan": 15
+    },
+    {
+        "id": 49,
+        "date_time": "2020-10-09 07:57:57",
+        "penjualan": "65083.32",
+        "pesanan": 11
+    },
+    {
+        "id": 50,
+        "date_time": "2020-09-29 19:17:47",
+        "penjualan": "57757.90",
+        "pesanan": 10
+    },
+    {
+        "id": 51,
+        "date_time": "2020-11-25 09:35:08",
+        "penjualan": "83676.89",
+        "pesanan": 20
+    },
+    {
+        "id": 52,
+        "date_time": "2020-09-13 09:00:08",
+        "penjualan": "54279.16",
+        "pesanan": 16
+    },
+    {
+        "id": 53,
+        "date_time": "2020-08-06 12:20:44",
+        "penjualan": "25959.54",
+        "pesanan": 10
+    },
+    {
+        "id": 54,
+        "date_time": "2020-10-12 00:09:20",
+        "penjualan": "11956.70",
+        "pesanan": 16
+    },
+    {
+        "id": 55,
+        "date_time": "2020-09-26 12:00:08",
+        "penjualan": "97159.90",
+        "pesanan": 14
+    },
+    {
+        "id": 56,
+        "date_time": "2020-08-21 19:48:48",
+        "penjualan": "82890.31",
+        "pesanan": 20
+    },
+    {
+        "id": 57,
+        "date_time": "2020-09-20 17:50:33",
+        "penjualan": "54573.06",
+        "pesanan": 17
+    },
+    {
+        "id": 58,
+        "date_time": "2020-09-25 04:52:34",
+        "penjualan": "52637.05",
+        "pesanan": 18
+    },
+    {
+        "id": 59,
+        "date_time": "2020-08-10 04:24:06",
+        "penjualan": "38721.47",
+        "pesanan": 12
+    },
+    {
+        "id": 60,
+        "date_time": "2020-09-06 11:38:06",
+        "penjualan": "57056.98",
+        "pesanan": 17
+    },
+    {
+        "id": 61,
+        "date_time": "2020-11-02 14:54:44",
+        "penjualan": "39304.08",
+        "pesanan": 15
+    },
+    {
+        "id": 62,
+        "date_time": "2020-09-19 00:01:48",
+        "penjualan": "17835.51",
+        "pesanan": 14
+    },
+    {
+        "id": 63,
+        "date_time": "2020-10-04 08:35:23",
+        "penjualan": "98169.90",
+        "pesanan": 10
+    },
+    {
+        "id": 64,
+        "date_time": "2020-08-06 23:24:33",
+        "penjualan": "48522.50",
+        "pesanan": 15
+    },
+    {
+        "id": 65,
+        "date_time": "2020-10-24 14:51:30",
+        "penjualan": "78180.10",
+        "pesanan": 10
+    },
+    {
+        "id": 66,
+        "date_time": "2020-10-03 07:06:17",
+        "penjualan": "29347.14",
+        "pesanan": 17
+    },
+    {
+        "id": 67,
+        "date_time": "2020-11-05 12:43:52",
+        "penjualan": "26138.63",
+        "pesanan": 17
+    },
+    {
+        "id": 68,
+        "date_time": "2020-11-03 08:10:08",
+        "penjualan": "76337.55",
+        "pesanan": 10
+    },
+    {
+        "id": 69,
+        "date_time": "2020-09-14 10:35:46",
+        "penjualan": "42212.62",
+        "pesanan": 17
+    },
+    {
+        "id": 70,
+        "date_time": "2020-10-15 21:20:42",
+        "penjualan": "78384.17",
+        "pesanan": 14
+    },
+    {
+        "id": 71,
+        "date_time": "2020-09-20 12:49:04",
+        "penjualan": "68053.29",
+        "pesanan": 11
+    },
+    {
+        "id": 72,
+        "date_time": "2020-10-30 02:08:59",
+        "penjualan": "19611.12",
+        "pesanan": 13
+    },
+    {
+        "id": 73,
+        "date_time": "2020-08-20 13:00:02",
+        "penjualan": "74212.20",
+        "pesanan": 12
+    },
+    {
+        "id": 74,
+        "date_time": "2020-09-04 02:53:09",
+        "penjualan": "14419.89",
+        "pesanan": 17
+    },
+    {
+        "id": 75,
+        "date_time": "2020-10-29 10:44:39",
+        "penjualan": "76881.85",
+        "pesanan": 16
+    },
+    {
+        "id": 76,
+        "date_time": "2020-09-17 07:13:43",
+        "penjualan": "32575.34",
+        "pesanan": 10
+    },
+    {
+        "id": 77,
+        "date_time": "2020-10-29 17:03:31",
+        "penjualan": "80694.00",
+        "pesanan": 16
+    },
+    {
+        "id": 78,
+        "date_time": "2020-08-12 16:45:33",
+        "penjualan": "96216.87",
+        "pesanan": 16
+    },
+    {
+        "id": 79,
+        "date_time": "2020-08-31 04:11:42",
+        "penjualan": "44745.58",
+        "pesanan": 18
+    },
+    {
+        "id": 80,
+        "date_time": "2020-11-01 21:32:35",
+        "penjualan": "23005.86",
+        "pesanan": 18
+    },
+    {
+        "id": 81,
+        "date_time": "2020-11-23 13:37:44",
+        "penjualan": "24720.72",
+        "pesanan": 18
+    },
+    {
+        "id": 82,
+        "date_time": "2020-10-03 07:54:24",
+        "penjualan": "28414.47",
+        "pesanan": 16
+    },
+    {
+        "id": 83,
+        "date_time": "2020-09-12 23:36:03",
+        "penjualan": "11208.63",
+        "pesanan": 20
+    },
+    {
+        "id": 84,
+        "date_time": "2020-09-11 00:46:50",
+        "penjualan": "43456.55",
+        "pesanan": 15
+    },
+    {
+        "id": 85,
+        "date_time": "2020-08-24 04:50:16",
+        "penjualan": "47078.31",
+        "pesanan": 12
+    },
+    {
+        "id": 86,
+        "date_time": "2020-08-29 17:08:36",
+        "penjualan": "32970.52",
+        "pesanan": 14
+    },
+    {
+        "id": 87,
+        "date_time": "2020-11-29 14:03:25",
+        "penjualan": "19766.39",
+        "pesanan": 18
+    },
+    {
+        "id": 88,
+        "date_time": "2020-11-15 17:20:11",
+        "penjualan": "36526.31",
+        "pesanan": 14
+    },
+    {
+        "id": 89,
+        "date_time": "2020-08-29 12:31:02",
+        "penjualan": "10344.42",
+        "pesanan": 19
+    },
+    {
+        "id": 90,
+        "date_time": "2020-10-29 06:18:59",
+        "penjualan": "66129.61",
+        "pesanan": 16
+    },
+    {
+        "id": 91,
+        "date_time": "2020-08-08 11:36:22",
+        "penjualan": "93389.66",
+        "pesanan": 17
+    },
+    {
+        "id": 92,
+        "date_time": "2020-09-21 22:48:06",
+        "penjualan": "11771.59",
+        "pesanan": 18
+    },
+    {
+        "id": 93,
+        "date_time": "2020-11-14 04:30:21",
+        "penjualan": "49489.56",
+        "pesanan": 11
+    },
+    {
+        "id": 94,
+        "date_time": "2020-09-19 14:40:42",
+        "penjualan": "82352.29",
+        "pesanan": 14
+    },
+    {
+        "id": 95,
+        "date_time": "2020-09-02 23:32:32",
+        "penjualan": "86865.13",
+        "pesanan": 13
+    },
+    {
+        "id": 96,
+        "date_time": "2020-10-19 03:37:36",
+        "penjualan": "12250.82",
+        "pesanan": 10
+    },
+    {
+        "id": 97,
+        "date_time": "2020-09-15 04:03:32",
+        "penjualan": "72053.99",
+        "pesanan": 11
+    },
+    {
+        "id": 98,
+        "date_time": "2020-10-01 09:32:05",
+        "penjualan": "53461.29",
+        "pesanan": 15
+    },
+    {
+        "id": 99,
+        "date_time": "2020-11-19 09:06:47",
+        "penjualan": "93932.51",
+        "pesanan": 18
+    },
+    {
+        "id": 100,
+        "date_time": "2020-11-14 09:08:10",
+        "penjualan": "84514.34",
+        "pesanan": 17
+    },
+    {
+        "id": 101,
+        "date_time": "2020-10-18 06:31:12",
+        "penjualan": "85431.66",
+        "pesanan": 10
+    },
+    {
+        "id": 102,
+        "date_time": "2020-10-07 20:03:07",
+        "penjualan": "78080.88",
+        "pesanan": 19
+    },
+    {
+        "id": 103,
+        "date_time": "2020-08-24 13:53:03",
+        "penjualan": "37662.80",
+        "pesanan": 12
+    },
+    {
+        "id": 104,
+        "date_time": "2020-09-19 01:31:16",
+        "penjualan": "18075.03",
+        "pesanan": 12
+    },
+    {
+        "id": 105,
+        "date_time": "2020-10-25 12:26:09",
+        "penjualan": "16902.11",
+        "pesanan": 10
+    },
+    {
+        "id": 106,
+        "date_time": "2020-11-04 05:06:22",
+        "penjualan": "96476.30",
+        "pesanan": 14
+    },
+    {
+        "id": 107,
+        "date_time": "2020-10-30 19:53:13",
+        "penjualan": "71059.63",
+        "pesanan": 11
+    },
+    {
+        "id": 108,
+        "date_time": "2020-10-21 03:22:45",
+        "penjualan": "62585.58",
+        "pesanan": 10
+    },
+    {
+        "id": 109,
+        "date_time": "2020-11-23 23:51:32",
+        "penjualan": "20982.55",
+        "pesanan": 11
+    },
+    {
+        "id": 110,
+        "date_time": "2020-09-23 21:22:49",
+        "penjualan": "89399.00",
+        "pesanan": 16
+    },
+    {
+        "id": 111,
+        "date_time": "2020-08-15 00:26:58",
+        "penjualan": "35535.93",
+        "pesanan": 18
+    },
+    {
+        "id": 112,
+        "date_time": "2020-09-20 09:34:17",
+        "penjualan": "93524.50",
+        "pesanan": 12
+    },
+    {
+        "id": 113,
+        "date_time": "2020-10-29 12:30:53",
+        "penjualan": "16310.59",
+        "pesanan": 15
+    },
+    {
+        "id": 114,
+        "date_time": "2020-10-28 18:46:28",
+        "penjualan": "53152.20",
+        "pesanan": 16
+    },
+    {
+        "id": 115,
+        "date_time": "2020-09-29 11:32:28",
+        "penjualan": "26317.10",
+        "pesanan": 13
+    },
+    {
+        "id": 116,
+        "date_time": "2020-11-08 23:45:29",
+        "penjualan": "78351.40",
+        "pesanan": 20
+    },
+    {
+        "id": 117,
+        "date_time": "2020-08-01 12:06:17",
+        "penjualan": "85902.49",
+        "pesanan": 12
+    },
+    {
+        "id": 118,
+        "date_time": "2020-09-26 17:35:54",
+        "penjualan": "93083.62",
+        "pesanan": 12
+    },
+    {
+        "id": 119,
+        "date_time": "2020-11-04 19:29:52",
+        "penjualan": "59640.16",
+        "pesanan": 16
+    },
+    {
+        "id": 120,
+        "date_time": "2020-08-11 13:36:33",
+        "penjualan": "57179.02",
+        "pesanan": 16
+    },
+    {
+        "id": 121,
+        "date_time": "2020-10-24 09:55:30",
+        "penjualan": "37955.48",
+        "pesanan": 19
+    },
+    {
+        "id": 122,
+        "date_time": "2020-10-13 11:46:35",
+        "penjualan": "60648.59",
+        "pesanan": 19
+    },
+    {
+        "id": 123,
+        "date_time": "2020-09-18 06:28:51",
+        "penjualan": "53926.36",
+        "pesanan": 20
+    },
+    {
+        "id": 124,
+        "date_time": "2020-09-01 01:54:23",
+        "penjualan": "81413.94",
+        "pesanan": 18
+    },
+    {
+        "id": 125,
+        "date_time": "2020-08-19 06:56:13",
+        "penjualan": "52062.26",
+        "pesanan": 14
+    },
+    {
+        "id": 126,
+        "date_time": "2020-09-12 05:52:09",
+        "penjualan": "63768.38",
+        "pesanan": 13
+    },
+    {
+        "id": 127,
+        "date_time": "2020-08-16 05:29:55",
+        "penjualan": "32150.42",
+        "pesanan": 10
+    },
+    {
+        "id": 128,
+        "date_time": "2020-08-18 06:11:19",
+        "penjualan": "31796.22",
+        "pesanan": 13
+    },
+    {
+        "id": 129,
+        "date_time": "2020-09-13 10:30:09",
+        "penjualan": "63297.94",
+        "pesanan": 18
+    },
+    {
+        "id": 130,
+        "date_time": "2020-08-29 14:36:17",
+        "penjualan": "68351.13",
+        "pesanan": 14
+    },
+    {
+        "id": 131,
+        "date_time": "2020-09-11 05:14:21",
+        "penjualan": "97727.48",
+        "pesanan": 14
+    },
+    {
+        "id": 132,
+        "date_time": "2020-08-02 14:56:00",
+        "penjualan": "32665.04",
+        "pesanan": 12
+    },
+    {
+        "id": 133,
+        "date_time": "2020-09-24 07:24:41",
+        "penjualan": "94682.92",
+        "pesanan": 17
+    },
+    {
+        "id": 134,
+        "date_time": "2020-09-26 03:07:31",
+        "penjualan": "42573.58",
+        "pesanan": 14
+    },
+    {
+        "id": 135,
+        "date_time": "2020-08-03 09:45:14",
+        "penjualan": "31678.61",
+        "pesanan": 16
+    },
+    {
+        "id": 136,
+        "date_time": "2020-11-16 19:20:25",
+        "penjualan": "85884.74",
+        "pesanan": 14
+    },
+    {
+        "id": 137,
+        "date_time": "2020-08-17 05:16:54",
+        "penjualan": "44015.59",
+        "pesanan": 10
+    },
+    {
+        "id": 138,
+        "date_time": "2020-11-27 04:10:51",
+        "penjualan": "92520.56",
+        "pesanan": 17
+    },
+    {
+        "id": 139,
+        "date_time": "2020-09-22 18:10:42",
+        "penjualan": "44626.01",
+        "pesanan": 20
+    },
+    {
+        "id": 140,
+        "date_time": "2020-10-16 00:32:42",
+        "penjualan": "81399.36",
+        "pesanan": 13
+    },
+    {
+        "id": 141,
+        "date_time": "2020-08-20 20:44:35",
+        "penjualan": "61794.37",
+        "pesanan": 13
+    },
+    {
+        "id": 142,
+        "date_time": "2020-08-25 04:30:56",
+        "penjualan": "99165.19",
+        "pesanan": 15
+    },
+    {
+        "id": 143,
+        "date_time": "2020-08-18 12:33:24",
+        "penjualan": "78862.59",
+        "pesanan": 11
+    },
+    {
+        "id": 144,
+        "date_time": "2020-09-23 08:06:54",
+        "penjualan": "35251.68",
+        "pesanan": 17
+    },
+    {
+        "id": 145,
+        "date_time": "2020-11-09 09:32:41",
+        "penjualan": "68155.89",
+        "pesanan": 11
+    },
+    {
+        "id": 146,
+        "date_time": "2020-11-21 23:32:06",
+        "penjualan": "82030.33",
+        "pesanan": 18
+    },
+    {
+        "id": 147,
+        "date_time": "2020-10-15 15:46:50",
+        "penjualan": "19585.97",
+        "pesanan": 19
+    },
+    {
+        "id": 148,
+        "date_time": "2020-10-14 18:10:09",
+        "penjualan": "71804.30",
+        "pesanan": 12
+    },
+    {
+        "id": 149,
+        "date_time": "2020-08-29 05:41:49",
+        "penjualan": "40209.87",
+        "pesanan": 17
+    },
+    {
+        "id": 150,
+        "date_time": "2020-09-15 02:45:04",
+        "penjualan": "12643.07",
+        "pesanan": 20
+    },
+    {
+        "id": 151,
+        "date_time": "2020-11-16 04:27:13",
+        "penjualan": "28901.18",
+        "pesanan": 18
+    },
+    {
+        "id": 152,
+        "date_time": "2020-09-08 22:59:51",
+        "penjualan": "91289.06",
+        "pesanan": 12
+    },
+    {
+        "id": 153,
+        "date_time": "2020-09-07 01:20:19",
+        "penjualan": "89111.37",
+        "pesanan": 14
+    },
+    {
+        "id": 154,
+        "date_time": "2020-10-13 20:10:28",
+        "penjualan": "93084.91",
+        "pesanan": 16
+    },
+    {
+        "id": 155,
+        "date_time": "2020-09-23 12:11:10",
+        "penjualan": "30835.64",
+        "pesanan": 15
+    },
+    {
+        "id": 156,
+        "date_time": "2020-11-04 19:51:27",
+        "penjualan": "57606.06",
+        "pesanan": 15
+    },
+    {
+        "id": 157,
+        "date_time": "2020-09-20 07:39:23",
+        "penjualan": "90351.90",
+        "pesanan": 18
+    },
+    {
+        "id": 158,
+        "date_time": "2020-10-16 14:33:13",
+        "penjualan": "31137.83",
+        "pesanan": 20
+    },
+    {
+        "id": 159,
+        "date_time": "2020-08-27 12:49:02",
+        "penjualan": "61094.65",
+        "pesanan": 20
+    },
+    {
+        "id": 160,
+        "date_time": "2020-09-07 05:47:22",
+        "penjualan": "52596.13",
+        "pesanan": 14
+    },
+    {
+        "id": 161,
+        "date_time": "2020-11-28 15:56:32",
+        "penjualan": "93626.76",
+        "pesanan": 16
+    },
+    {
+        "id": 162,
+        "date_time": "2020-11-18 15:07:30",
+        "penjualan": "41597.39",
+        "pesanan": 16
+    },
+    {
+        "id": 163,
+        "date_time": "2020-08-24 23:34:51",
+        "penjualan": "89815.99",
+        "pesanan": 20
+    },
+    {
+        "id": 164,
+        "date_time": "2020-09-15 16:24:14",
+        "penjualan": "66339.78",
+        "pesanan": 12
+    },
+    {
+        "id": 165,
+        "date_time": "2020-11-29 06:49:11",
+        "penjualan": "82939.86",
+        "pesanan": 19
+    },
+    {
+        "id": 166,
+        "date_time": "2020-11-13 06:24:26",
+        "penjualan": "44229.83",
+        "pesanan": 19
+    },
+    {
+        "id": 167,
+        "date_time": "2020-08-10 10:31:28",
+        "penjualan": "87668.62",
+        "pesanan": 20
+    },
+    {
+        "id": 168,
+        "date_time": "2020-08-09 16:59:09",
+        "penjualan": "78345.26",
+        "pesanan": 14
+    },
+    {
+        "id": 169,
+        "date_time": "2020-11-16 02:11:13",
+        "penjualan": "79938.02",
+        "pesanan": 18
+    },
+    {
+        "id": 170,
+        "date_time": "2020-08-27 12:24:02",
+        "penjualan": "75285.25",
+        "pesanan": 14
+    },
+    {
+        "id": 171,
+        "date_time": "2020-11-02 06:46:21",
+        "penjualan": "24014.32",
+        "pesanan": 15
+    },
+    {
+        "id": 172,
+        "date_time": "2020-09-04 08:06:49",
+        "penjualan": "93272.58",
+        "pesanan": 18
+    },
+    {
+        "id": 173,
+        "date_time": "2020-08-29 01:43:07",
+        "penjualan": "18304.72",
+        "pesanan": 11
+    },
+    {
+        "id": 174,
+        "date_time": "2020-08-07 01:02:29",
+        "penjualan": "67022.62",
+        "pesanan": 14
+    },
+    {
+        "id": 175,
+        "date_time": "2020-11-09 01:29:50",
+        "penjualan": "42535.61",
+        "pesanan": 19
+    },
+    {
+        "id": 176,
+        "date_time": "2020-11-21 11:33:56",
+        "penjualan": "79240.96",
+        "pesanan": 15
+    },
+    {
+        "id": 177,
+        "date_time": "2020-11-15 01:02:11",
+        "penjualan": "59884.26",
+        "pesanan": 19
+    },
+    {
+        "id": 178,
+        "date_time": "2020-08-22 07:30:31",
+        "penjualan": "82267.19",
+        "pesanan": 16
+    },
+    {
+        "id": 179,
+        "date_time": "2020-11-09 08:50:36",
+        "penjualan": "15308.32",
+        "pesanan": 17
+    },
+    {
+        "id": 180,
+        "date_time": "2020-08-11 18:27:27",
+        "penjualan": "41043.16",
+        "pesanan": 16
+    },
+    {
+        "id": 181,
+        "date_time": "2020-10-22 17:40:40",
+        "penjualan": "64431.51",
+        "pesanan": 11
+    },
+    {
+        "id": 182,
+        "date_time": "2020-11-12 15:23:59",
+        "penjualan": "34558.12",
+        "pesanan": 19
+    },
+    {
+        "id": 183,
+        "date_time": "2020-10-14 17:29:08",
+        "penjualan": "43247.71",
+        "pesanan": 11
+    },
+    {
+        "id": 184,
+        "date_time": "2020-10-29 18:23:58",
+        "penjualan": "63060.84",
+        "pesanan": 13
+    },
+    {
+        "id": 185,
+        "date_time": "2020-11-11 06:12:42",
+        "penjualan": "45768.74",
+        "pesanan": 17
+    },
+    {
+        "id": 186,
+        "date_time": "2020-08-13 22:46:54",
+        "penjualan": "48366.66",
+        "pesanan": 20
+    },
+    {
+        "id": 187,
+        "date_time": "2020-09-25 18:19:37",
+        "penjualan": "11163.73",
+        "pesanan": 10
+    },
+    {
+        "id": 188,
+        "date_time": "2020-10-20 14:06:48",
+        "penjualan": "91617.10",
+        "pesanan": 17
+    },
+    {
+        "id": 189,
+        "date_time": "2020-10-09 21:03:45",
+        "penjualan": "80753.93",
+        "pesanan": 18
+    },
+    {
+        "id": 190,
+        "date_time": "2020-11-08 01:28:06",
+        "penjualan": "55329.50",
+        "pesanan": 17
+    },
+    {
+        "id": 191,
+        "date_time": "2020-11-28 23:17:22",
+        "penjualan": "70461.16",
+        "pesanan": 11
+    },
+    {
+        "id": 192,
+        "date_time": "2020-10-28 07:31:46",
+        "penjualan": "39422.28",
+        "pesanan": 19
+    },
+    {
+        "id": 193,
+        "date_time": "2020-09-30 02:15:25",
+        "penjualan": "28655.92",
+        "pesanan": 13
+    },
+    {
+        "id": 194,
+        "date_time": "2020-11-07 14:29:58",
+        "penjualan": "67072.90",
+        "pesanan": 11
+    },
+    {
+        "id": 195,
+        "date_time": "2020-09-23 20:43:27",
+        "penjualan": "93125.30",
+        "pesanan": 20
+    },
+    {
+        "id": 196,
+        "date_time": "2020-08-26 22:34:01",
+        "penjualan": "88386.14",
+        "pesanan": 15
+    },
+    {
+        "id": 197,
+        "date_time": "2020-10-13 19:24:29",
+        "penjualan": "56957.13",
+        "pesanan": 15
+    },
+    {
+        "id": 198,
+        "date_time": "2020-08-10 02:14:45",
+        "penjualan": "17052.03",
+        "pesanan": 12
+    },
+    {
+        "id": 199,
+        "date_time": "2020-11-14 12:20:58",
+        "penjualan": "50457.19",
+        "pesanan": 12
+    },
+    {
+        "id": 200,
+        "date_time": "2020-08-31 18:55:39",
+        "penjualan": "94780.89",
+        "pesanan": 12
+    },
+    {
+        "id": 201,
+        "date_time": "2020-10-08 11:15:19",
+        "penjualan": "69986.05",
+        "pesanan": 14
+    },
+    {
+        "id": 202,
+        "date_time": "2020-08-01 09:15:05",
+        "penjualan": "99390.83",
+        "pesanan": 16
+    },
+    {
+        "id": 203,
+        "date_time": "2020-09-19 19:55:56",
+        "penjualan": "71595.31",
+        "pesanan": 14
+    },
+    {
+        "id": 204,
+        "date_time": "2020-09-15 12:11:21",
+        "penjualan": "61273.88",
+        "pesanan": 18
+    },
+    {
+        "id": 205,
+        "date_time": "2020-10-07 05:12:16",
+        "penjualan": "94517.23",
+        "pesanan": 20
+    },
+    {
+        "id": 206,
+        "date_time": "2020-10-31 00:43:26",
+        "penjualan": "31082.66",
+        "pesanan": 16
+    },
+    {
+        "id": 207,
+        "date_time": "2020-11-21 17:30:42",
+        "penjualan": "94991.35",
+        "pesanan": 19
+    },
+    {
+        "id": 208,
+        "date_time": "2020-09-08 04:39:24",
+        "penjualan": "11106.58",
+        "pesanan": 18
+    },
+    {
+        "id": 209,
+        "date_time": "2020-08-12 15:15:00",
+        "penjualan": "80094.20",
+        "pesanan": 15
+    },
+    {
+        "id": 210,
+        "date_time": "2020-11-23 00:48:33",
+        "penjualan": "31146.59",
+        "pesanan": 11
+    },
+    {
+        "id": 211,
+        "date_time": "2020-10-24 00:54:50",
+        "penjualan": "44933.89",
+        "pesanan": 13
+    },
+    {
+        "id": 212,
+        "date_time": "2020-11-08 11:49:01",
+        "penjualan": "10617.31",
+        "pesanan": 11
+    },
+    {
+        "id": 213,
+        "date_time": "2020-11-06 19:01:46",
+        "penjualan": "83838.41",
+        "pesanan": 11
+    },
+    {
+        "id": 214,
+        "date_time": "2020-11-13 16:32:31",
+        "penjualan": "94370.25",
+        "pesanan": 17
+    },
+    {
+        "id": 215,
+        "date_time": "2020-11-02 00:24:50",
+        "penjualan": "57723.89",
+        "pesanan": 19
+    },
+    {
+        "id": 216,
+        "date_time": "2020-10-21 06:13:10",
+        "penjualan": "61770.38",
+        "pesanan": 11
+    },
+    {
+        "id": 217,
+        "date_time": "2020-08-24 23:08:13",
+        "penjualan": "74905.03",
+        "pesanan": 14
+    },
+    {
+        "id": 218,
+        "date_time": "2020-08-10 11:08:29",
+        "penjualan": "86497.24",
+        "pesanan": 13
+    },
+    {
+        "id": 219,
+        "date_time": "2020-08-06 01:02:38",
+        "penjualan": "30442.35",
+        "pesanan": 20
+    },
+    {
+        "id": 220,
+        "date_time": "2020-11-28 11:28:40",
+        "penjualan": "50637.80",
+        "pesanan": 19
+    },
+    {
+        "id": 221,
+        "date_time": "2020-11-02 07:54:57",
+        "penjualan": "75090.49",
+        "pesanan": 17
+    },
+    {
+        "id": 222,
+        "date_time": "2020-11-17 09:46:44",
+        "penjualan": "71910.45",
+        "pesanan": 16
+    },
+    {
+        "id": 223,
+        "date_time": "2020-09-27 13:35:08",
+        "penjualan": "47892.66",
+        "pesanan": 19
+    },
+    {
+        "id": 224,
+        "date_time": "2020-08-07 15:42:04",
+        "penjualan": "84047.87",
+        "pesanan": 11
+    },
+    {
+        "id": 225,
+        "date_time": "2020-08-05 18:28:54",
+        "penjualan": "49132.82",
+        "pesanan": 18
+    },
+    {
+        "id": 226,
+        "date_time": "2020-09-01 04:05:00",
+        "penjualan": "64826.17",
+        "pesanan": 12
+    },
+    {
+        "id": 227,
+        "date_time": "2020-10-25 03:03:33",
+        "penjualan": "85824.08",
+        "pesanan": 12
+    },
+    {
+        "id": 228,
+        "date_time": "2020-09-29 07:39:38",
+        "penjualan": "49081.97",
+        "pesanan": 11
+    },
+    {
+        "id": 229,
+        "date_time": "2020-09-12 02:20:40",
+        "penjualan": "22602.97",
+        "pesanan": 14
+    },
+    {
+        "id": 230,
+        "date_time": "2020-11-23 01:09:54",
+        "penjualan": "80643.50",
+        "pesanan": 11
+    },
+    {
+        "id": 231,
+        "date_time": "2020-11-28 01:37:56",
+        "penjualan": "41104.94",
+        "pesanan": 16
+    },
+    {
+        "id": 232,
+        "date_time": "2020-11-06 01:06:50",
+        "penjualan": "92333.78",
+        "pesanan": 11
+    },
+    {
+        "id": 233,
+        "date_time": "2020-09-30 21:53:09",
+        "penjualan": "26837.92",
+        "pesanan": 20
+    },
+    {
+        "id": 234,
+        "date_time": "2020-08-16 16:51:26",
+        "penjualan": "65509.25",
+        "pesanan": 14
+    },
+    {
+        "id": 235,
+        "date_time": "2020-08-31 15:31:55",
+        "penjualan": "98296.49",
+        "pesanan": 13
+    },
+    {
+        "id": 236,
+        "date_time": "2020-08-24 16:52:40",
+        "penjualan": "58500.86",
+        "pesanan": 13
+    },
+    {
+        "id": 237,
+        "date_time": "2020-09-15 18:43:31",
+        "penjualan": "98256.98",
+        "pesanan": 18
+    },
+    {
+        "id": 238,
+        "date_time": "2020-11-13 09:09:53",
+        "penjualan": "91302.72",
+        "pesanan": 11
+    },
+    {
+        "id": 239,
+        "date_time": "2020-08-24 07:34:43",
+        "penjualan": "93840.86",
+        "pesanan": 11
+    },
+    {
+        "id": 240,
+        "date_time": "2020-09-11 21:20:21",
+        "penjualan": "77687.11",
+        "pesanan": 16
+    },
+    {
+        "id": 241,
+        "date_time": "2020-11-24 16:10:46",
+        "penjualan": "21161.62",
+        "pesanan": 13
+    },
+    {
+        "id": 242,
+        "date_time": "2020-10-03 07:57:09",
+        "penjualan": "77304.77",
+        "pesanan": 15
+    },
+    {
+        "id": 243,
+        "date_time": "2020-08-17 01:25:21",
+        "penjualan": "64644.01",
+        "pesanan": 14
+    },
+    {
+        "id": 244,
+        "date_time": "2020-10-17 22:44:12",
+        "penjualan": "49987.17",
+        "pesanan": 20
+    },
+    {
+        "id": 245,
+        "date_time": "2020-09-09 21:23:56",
+        "penjualan": "29922.41",
+        "pesanan": 16
+    },
+    {
+        "id": 246,
+        "date_time": "2020-08-27 11:44:42",
+        "penjualan": "30340.99",
+        "pesanan": 17
+    },
+    {
+        "id": 247,
+        "date_time": "2020-09-10 20:02:16",
+        "penjualan": "59752.70",
+        "pesanan": 15
+    },
+    {
+        "id": 248,
+        "date_time": "2020-11-18 16:28:33",
+        "penjualan": "27883.94",
+        "pesanan": 11
+    },
+    {
+        "id": 249,
+        "date_time": "2020-09-14 06:42:47",
+        "penjualan": "91762.47",
+        "pesanan": 13
+    },
+    {
+        "id": 250,
+        "date_time": "2020-09-26 09:11:50",
+        "penjualan": "58216.07",
+        "pesanan": 14
+    },
+    {
+        "id": 251,
+        "date_time": "2020-11-29 14:43:36",
+        "penjualan": "90298.49",
+        "pesanan": 10
+    },
+    {
+        "id": 252,
+        "date_time": "2020-11-15 23:27:20",
+        "penjualan": "13936.99",
+        "pesanan": 16
+    },
+    {
+        "id": 253,
+        "date_time": "2020-11-07 16:04:38",
+        "penjualan": "62826.48",
+        "pesanan": 10
+    },
+    {
+        "id": 254,
+        "date_time": "2020-11-16 20:05:24",
+        "penjualan": "94449.82",
+        "pesanan": 19
+    },
+    {
+        "id": 255,
+        "date_time": "2020-08-15 17:27:23",
+        "penjualan": "53486.99",
+        "pesanan": 18
+    },
+    {
+        "id": 256,
+        "date_time": "2020-09-18 10:16:01",
+        "penjualan": "21078.77",
+        "pesanan": 19
+    },
+    {
+        "id": 257,
+        "date_time": "2020-11-03 07:29:53",
+        "penjualan": "65410.88",
+        "pesanan": 19
+    },
+    {
+        "id": 258,
+        "date_time": "2020-09-06 19:33:15",
+        "penjualan": "26320.53",
+        "pesanan": 13
+    },
+    {
+        "id": 259,
+        "date_time": "2020-11-29 19:54:19",
+        "penjualan": "94738.08",
+        "pesanan": 16
+    },
+    {
+        "id": 260,
+        "date_time": "2020-10-19 07:17:47",
+        "penjualan": "80165.29",
+        "pesanan": 13
+    },
+    {
+        "id": 261,
+        "date_time": "2020-09-27 01:54:57",
+        "penjualan": "87043.04",
+        "pesanan": 14
+    },
+    {
+        "id": 262,
+        "date_time": "2020-10-29 07:46:46",
+        "penjualan": "38418.40",
+        "pesanan": 15
+    },
+    {
+        "id": 263,
+        "date_time": "2020-08-17 12:57:28",
+        "penjualan": "10020.80",
+        "pesanan": 13
+    },
+    {
+        "id": 264,
+        "date_time": "2020-10-27 03:51:28",
+        "penjualan": "64184.34",
+        "pesanan": 13
+    },
+    {
+        "id": 265,
+        "date_time": "2020-10-07 17:19:25",
+        "penjualan": "54234.39",
+        "pesanan": 13
+    },
+    {
+        "id": 266,
+        "date_time": "2020-09-25 15:36:06",
+        "penjualan": "12961.64",
+        "pesanan": 13
+    },
+    {
+        "id": 267,
+        "date_time": "2020-09-25 09:54:02",
+        "penjualan": "84327.77",
+        "pesanan": 12
+    },
+    {
+        "id": 268,
+        "date_time": "2020-10-07 23:05:09",
+        "penjualan": "61808.02",
+        "pesanan": 19
+    },
+    {
+        "id": 269,
+        "date_time": "2020-09-27 06:35:56",
+        "penjualan": "61704.61",
+        "pesanan": 13
+    },
+    {
+        "id": 270,
+        "date_time": "2020-08-01 22:29:40",
+        "penjualan": "24496.91",
+        "pesanan": 11
+    },
+    {
+        "id": 271,
+        "date_time": "2020-09-26 11:36:59",
+        "penjualan": "40795.16",
+        "pesanan": 18
+    },
+    {
+        "id": 272,
+        "date_time": "2020-08-06 14:23:38",
+        "penjualan": "62206.89",
+        "pesanan": 20
+    },
+    {
+        "id": 273,
+        "date_time": "2020-09-16 15:30:48",
+        "penjualan": "98147.78",
+        "pesanan": 16
+    },
+    {
+        "id": 274,
+        "date_time": "2020-10-09 12:58:09",
+        "penjualan": "17357.34",
+        "pesanan": 13
+    },
+    {
+        "id": 275,
+        "date_time": "2020-08-18 10:33:38",
+        "penjualan": "11645.80",
+        "pesanan": 16
+    },
+    {
+        "id": 276,
+        "date_time": "2020-10-08 14:20:37",
+        "penjualan": "82957.88",
+        "pesanan": 18
+    },
+    {
+        "id": 277,
+        "date_time": "2020-11-28 02:22:54",
+        "penjualan": "54813.88",
+        "pesanan": 14
+    },
+    {
+        "id": 278,
+        "date_time": "2020-10-27 23:10:30",
+        "penjualan": "11132.47",
+        "pesanan": 19
+    },
+    {
+        "id": 279,
+        "date_time": "2020-09-16 07:21:01",
+        "penjualan": "82337.32",
+        "pesanan": 11
+    },
+    {
+        "id": 280,
+        "date_time": "2020-08-08 02:01:39",
+        "penjualan": "92044.95",
+        "pesanan": 12
+    },
+    {
+        "id": 281,
+        "date_time": "2020-10-28 00:17:26",
+        "penjualan": "90919.44",
+        "pesanan": 19
+    },
+    {
+        "id": 282,
+        "date_time": "2020-11-05 13:10:16",
+        "penjualan": "62085.88",
+        "pesanan": 14
+    },
+    {
+        "id": 283,
+        "date_time": "2020-10-02 22:00:06",
+        "penjualan": "89513.82",
+        "pesanan": 16
+    },
+    {
+        "id": 284,
+        "date_time": "2020-09-07 00:39:45",
+        "penjualan": "47955.34",
+        "pesanan": 17
+    },
+    {
+        "id": 285,
+        "date_time": "2020-11-14 10:46:44",
+        "penjualan": "32931.84",
+        "pesanan": 18
+    },
+    {
+        "id": 286,
+        "date_time": "2020-11-26 18:17:46",
+        "penjualan": "22118.70",
+        "pesanan": 11
+    },
+    {
+        "id": 287,
+        "date_time": "2020-11-04 17:26:39",
+        "penjualan": "11794.98",
+        "pesanan": 18
+    },
+    {
+        "id": 288,
+        "date_time": "2020-11-16 17:46:35",
+        "penjualan": "82260.69",
+        "pesanan": 11
+    },
+    {
+        "id": 289,
+        "date_time": "2020-08-25 02:20:52",
+        "penjualan": "39168.49",
+        "pesanan": 15
+    },
+    {
+        "id": 290,
+        "date_time": "2020-08-16 17:25:11",
+        "penjualan": "62620.11",
+        "pesanan": 12
+    },
+    {
+        "id": 291,
+        "date_time": "2020-11-11 02:27:41",
+        "penjualan": "33827.93",
+        "pesanan": 14
+    },
+    {
+        "id": 292,
+        "date_time": "2020-08-27 09:23:50",
+        "penjualan": "84877.54",
+        "pesanan": 20
+    },
+    {
+        "id": 293,
+        "date_time": "2020-08-19 23:25:23",
+        "penjualan": "82715.80",
+        "pesanan": 20
+    },
+    {
+        "id": 294,
+        "date_time": "2020-09-24 14:55:37",
+        "penjualan": "44619.11",
+        "pesanan": 19
+    },
+    {
+        "id": 295,
+        "date_time": "2020-09-19 09:40:36",
+        "penjualan": "61869.46",
+        "pesanan": 13
+    },
+    {
+        "id": 296,
+        "date_time": "2020-08-31 23:51:06",
+        "penjualan": "99999.50",
+        "pesanan": 17
+    },
+    {
+        "id": 297,
+        "date_time": "2020-08-05 12:43:53",
+        "penjualan": "53146.17",
+        "pesanan": 11
+    },
+    {
+        "id": 298,
+        "date_time": "2020-09-10 23:56:48",
+        "penjualan": "67593.26",
+        "pesanan": 11
+    },
+    {
+        "id": 299,
+        "date_time": "2020-11-09 08:36:07",
+        "penjualan": "40050.28",
+        "pesanan": 17
+    },
+    {
+        "id": 300,
+        "date_time": "2020-10-24 13:07:18",
+        "penjualan": "65335.26",
+        "pesanan": 13
+    },
+    {
+        "id": 301,
+        "date_time": "2020-10-24 18:06:36",
+        "penjualan": "67712.71",
+        "pesanan": 17
+    },
+    {
+        "id": 302,
+        "date_time": "2020-11-19 22:34:38",
+        "penjualan": "97649.72",
+        "pesanan": 12
+    },
+    {
+        "id": 303,
+        "date_time": "2020-09-14 06:16:25",
+        "penjualan": "88974.36",
+        "pesanan": 12
+    },
+    {
+        "id": 304,
+        "date_time": "2020-09-17 01:20:28",
+        "penjualan": "41235.58",
+        "pesanan": 20
+    },
+    {
+        "id": 305,
+        "date_time": "2020-08-08 02:56:14",
+        "penjualan": "61327.15",
+        "pesanan": 14
+    },
+    {
+        "id": 306,
+        "date_time": "2020-08-24 18:19:56",
+        "penjualan": "10160.90",
+        "pesanan": 10
+    },
+    {
+        "id": 307,
+        "date_time": "2020-11-10 21:42:05",
+        "penjualan": "72001.75",
+        "pesanan": 14
+    },
+    {
+        "id": 308,
+        "date_time": "2020-09-06 20:19:39",
+        "penjualan": "29476.81",
+        "pesanan": 13
+    },
+    {
+        "id": 309,
+        "date_time": "2020-10-13 06:15:35",
+        "penjualan": "73096.87",
+        "pesanan": 16
+    },
+    {
+        "id": 310,
+        "date_time": "2020-10-06 14:00:37",
+        "penjualan": "88641.33",
+        "pesanan": 16
+    },
+    {
+        "id": 311,
+        "date_time": "2020-08-29 21:32:30",
+        "penjualan": "98252.72",
+        "pesanan": 13
+    },
+    {
+        "id": 312,
+        "date_time": "2020-10-12 01:52:08",
+        "penjualan": "59787.51",
+        "pesanan": 19
+    },
+    {
+        "id": 313,
+        "date_time": "2020-09-27 02:15:47",
+        "penjualan": "46004.76",
+        "pesanan": 15
+    },
+    {
+        "id": 314,
+        "date_time": "2020-10-23 13:54:41",
+        "penjualan": "53516.06",
+        "pesanan": 15
+    },
+    {
+        "id": 315,
+        "date_time": "2020-11-21 18:14:49",
+        "penjualan": "22091.31",
+        "pesanan": 13
+    },
+    {
+        "id": 316,
+        "date_time": "2020-09-14 22:16:19",
+        "penjualan": "13170.21",
+        "pesanan": 17
+    },
+    {
+        "id": 317,
+        "date_time": "2020-09-06 18:37:43",
+        "penjualan": "38542.61",
+        "pesanan": 16
+    },
+    {
+        "id": 318,
+        "date_time": "2020-10-20 03:48:48",
+        "penjualan": "89517.41",
+        "pesanan": 14
+    },
+    {
+        "id": 319,
+        "date_time": "2020-08-11 22:58:27",
+        "penjualan": "15346.81",
+        "pesanan": 13
+    },
+    {
+        "id": 320,
+        "date_time": "2020-08-03 08:07:43",
+        "penjualan": "38006.26",
+        "pesanan": 13
+    },
+    {
+        "id": 321,
+        "date_time": "2020-11-09 08:25:48",
+        "penjualan": "86746.58",
+        "pesanan": 16
+    },
+    {
+        "id": 322,
+        "date_time": "2020-08-07 14:23:44",
+        "penjualan": "27582.02",
+        "pesanan": 19
+    },
+    {
+        "id": 323,
+        "date_time": "2020-10-04 21:48:43",
+        "penjualan": "90117.05",
+        "pesanan": 19
+    },
+    {
+        "id": 324,
+        "date_time": "2020-08-05 01:37:53",
+        "penjualan": "54901.85",
+        "pesanan": 12
+    },
+    {
+        "id": 325,
+        "date_time": "2020-11-19 02:56:22",
+        "penjualan": "23196.58",
+        "pesanan": 12
+    },
+    {
+        "id": 326,
+        "date_time": "2020-11-15 07:52:59",
+        "penjualan": "35493.65",
+        "pesanan": 20
+    },
+    {
+        "id": 327,
+        "date_time": "2020-09-13 07:18:44",
+        "penjualan": "13967.54",
+        "pesanan": 18
+    },
+    {
+        "id": 328,
+        "date_time": "2020-11-15 10:28:07",
+        "penjualan": "42837.62",
+        "pesanan": 17
+    },
+    {
+        "id": 329,
+        "date_time": "2020-09-08 09:27:06",
+        "penjualan": "63386.91",
+        "pesanan": 19
+    },
+    {
+        "id": 330,
+        "date_time": "2020-11-06 11:20:35",
+        "penjualan": "59520.54",
+        "pesanan": 20
+    },
+    {
+        "id": 331,
+        "date_time": "2020-09-09 08:34:07",
+        "penjualan": "72591.59",
+        "pesanan": 18
+    },
+    {
+        "id": 332,
+        "date_time": "2020-09-13 02:10:24",
+        "penjualan": "15892.82",
+        "pesanan": 18
+    },
+    {
+        "id": 333,
+        "date_time": "2020-08-13 08:23:16",
+        "penjualan": "35959.44",
+        "pesanan": 18
+    },
+    {
+        "id": 334,
+        "date_time": "2020-08-25 18:09:25",
+        "penjualan": "19791.70",
+        "pesanan": 18
+    },
+    {
+        "id": 335,
+        "date_time": "2020-08-21 05:55:28",
+        "penjualan": "65934.96",
+        "pesanan": 18
+    },
+    {
+        "id": 336,
+        "date_time": "2020-11-25 12:53:14",
+        "penjualan": "96760.91",
+        "pesanan": 10
+    },
+    {
+        "id": 337,
+        "date_time": "2020-08-27 03:26:45",
+        "penjualan": "23174.79",
+        "pesanan": 12
+    },
+    {
+        "id": 338,
+        "date_time": "2020-08-07 20:39:02",
+        "penjualan": "25014.41",
+        "pesanan": 16
+    },
+    {
+        "id": 339,
+        "date_time": "2020-08-30 01:07:45",
+        "penjualan": "29785.11",
+        "pesanan": 16
+    },
+    {
+        "id": 340,
+        "date_time": "2020-11-12 11:38:50",
+        "penjualan": "53896.74",
+        "pesanan": 12
+    },
+    {
+        "id": 341,
+        "date_time": "2020-10-18 09:19:02",
+        "penjualan": "99922.68",
+        "pesanan": 16
+    },
+    {
+        "id": 342,
+        "date_time": "2020-09-03 13:14:47",
+        "penjualan": "54249.95",
+        "pesanan": 11
+    },
+    {
+        "id": 343,
+        "date_time": "2020-09-11 13:20:28",
+        "penjualan": "54393.01",
+        "pesanan": 17
+    },
+    {
+        "id": 344,
+        "date_time": "2020-09-16 17:04:06",
+        "penjualan": "61223.10",
+        "pesanan": 18
+    },
+    {
+        "id": 345,
+        "date_time": "2020-11-03 07:54:12",
+        "penjualan": "64233.18",
+        "pesanan": 14
+    },
+    {
+        "id": 346,
+        "date_time": "2020-11-23 06:08:59",
+        "penjualan": "11473.58",
+        "pesanan": 20
+    },
+    {
+        "id": 347,
+        "date_time": "2020-11-09 16:10:46",
+        "penjualan": "54726.33",
+        "pesanan": 10
+    },
+    {
+        "id": 348,
+        "date_time": "2020-11-28 05:32:33",
+        "penjualan": "13103.70",
+        "pesanan": 20
+    },
+    {
+        "id": 349,
+        "date_time": "2020-11-05 16:43:42",
+        "penjualan": "27882.28",
+        "pesanan": 12
+    },
+    {
+        "id": 350,
+        "date_time": "2020-08-03 11:00:49",
+        "penjualan": "99853.61",
+        "pesanan": 11
+    },
+    {
+        "id": 351,
+        "date_time": "2020-08-22 00:22:55",
+        "penjualan": "96821.81",
+        "pesanan": 13
+    },
+    {
+        "id": 352,
+        "date_time": "2020-11-03 22:19:21",
+        "penjualan": "49206.05",
+        "pesanan": 11
+    },
+    {
+        "id": 353,
+        "date_time": "2020-09-28 05:39:14",
+        "penjualan": "86597.62",
+        "pesanan": 10
+    },
+    {
+        "id": 354,
+        "date_time": "2020-11-27 02:36:22",
+        "penjualan": "78793.64",
+        "pesanan": 13
+    },
+    {
+        "id": 355,
+        "date_time": "2020-09-06 20:41:10",
+        "penjualan": "36810.29",
+        "pesanan": 18
+    },
+    {
+        "id": 356,
+        "date_time": "2020-10-11 07:42:10",
+        "penjualan": "14438.60",
+        "pesanan": 10
+    },
+    {
+        "id": 357,
+        "date_time": "2020-09-14 14:49:10",
+        "penjualan": "46241.18",
+        "pesanan": 14
+    },
+    {
+        "id": 358,
+        "date_time": "2020-09-17 17:00:26",
+        "penjualan": "90851.00",
+        "pesanan": 19
+    },
+    {
+        "id": 359,
+        "date_time": "2020-09-20 09:57:42",
+        "penjualan": "35070.86",
+        "pesanan": 17
+    },
+    {
+        "id": 360,
+        "date_time": "2020-11-18 15:32:17",
+        "penjualan": "70456.68",
+        "pesanan": 13
+    },
+    {
+        "id": 361,
+        "date_time": "2020-09-20 04:16:17",
+        "penjualan": "93023.81",
+        "pesanan": 16
+    },
+    {
+        "id": 362,
+        "date_time": "2020-09-12 01:14:40",
+        "penjualan": "75797.98",
+        "pesanan": 17
+    },
+    {
+        "id": 363,
+        "date_time": "2020-10-22 10:23:03",
+        "penjualan": "85369.88",
+        "pesanan": 14
+    },
+    {
+        "id": 364,
+        "date_time": "2020-08-06 22:54:14",
+        "penjualan": "27440.95",
+        "pesanan": 17
+    },
+    {
+        "id": 365,
+        "date_time": "2020-08-05 07:02:24",
+        "penjualan": "96414.27",
+        "pesanan": 19
+    },
+    {
+        "id": 366,
+        "date_time": "2020-09-27 20:00:20",
+        "penjualan": "97774.26",
+        "pesanan": 18
+    },
+    {
+        "id": 367,
+        "date_time": "2020-10-26 17:28:45",
+        "penjualan": "32789.97",
+        "pesanan": 14
+    },
+    {
+        "id": 368,
+        "date_time": "2020-08-31 01:25:18",
+        "penjualan": "13480.12",
+        "pesanan": 10
+    },
+    {
+        "id": 369,
+        "date_time": "2020-09-25 10:26:52",
+        "penjualan": "12782.93",
+        "pesanan": 13
+    },
+    {
+        "id": 370,
+        "date_time": "2020-10-22 02:34:34",
+        "penjualan": "92003.64",
+        "pesanan": 11
+    },
+    {
+        "id": 371,
+        "date_time": "2020-10-08 11:26:19",
+        "penjualan": "73280.33",
+        "pesanan": 15
+    },
+    {
+        "id": 372,
+        "date_time": "2020-10-30 07:40:52",
+        "penjualan": "35034.05",
+        "pesanan": 19
+    },
+    {
+        "id": 373,
+        "date_time": "2020-08-03 00:12:44",
+        "penjualan": "23908.34",
+        "pesanan": 19
+    },
+    {
+        "id": 374,
+        "date_time": "2020-11-23 00:37:59",
+        "penjualan": "13834.26",
+        "pesanan": 15
+    },
+    {
+        "id": 375,
+        "date_time": "2020-08-18 12:18:10",
+        "penjualan": "80510.06",
+        "pesanan": 20
+    },
+    {
+        "id": 376,
+        "date_time": "2020-08-01 10:23:14",
+        "penjualan": "80862.50",
+        "pesanan": 20
+    },
+    {
+        "id": 377,
+        "date_time": "2020-11-14 02:07:33",
+        "penjualan": "47975.30",
+        "pesanan": 16
+    },
+    {
+        "id": 378,
+        "date_time": "2020-08-24 22:08:08",
+        "penjualan": "30672.13",
+        "pesanan": 20
+    },
+    {
+        "id": 379,
+        "date_time": "2020-10-03 11:16:11",
+        "penjualan": "91014.81",
+        "pesanan": 15
+    },
+    {
+        "id": 380,
+        "date_time": "2020-08-27 06:05:36",
+        "penjualan": "47980.21",
+        "pesanan": 20
+    },
+    {
+        "id": 381,
+        "date_time": "2020-09-01 02:35:33",
+        "penjualan": "62040.74",
+        "pesanan": 10
+    },
+    {
+        "id": 382,
+        "date_time": "2020-09-29 16:13:59",
+        "penjualan": "98011.15",
+        "pesanan": 13
+    },
+    {
+        "id": 383,
+        "date_time": "2020-10-02 09:59:30",
+        "penjualan": "48236.34",
+        "pesanan": 12
+    },
+    {
+        "id": 384,
+        "date_time": "2020-08-04 13:24:42",
+        "penjualan": "87418.75",
+        "pesanan": 10
+    },
+    {
+        "id": 385,
+        "date_time": "2020-10-15 00:59:07",
+        "penjualan": "74145.22",
+        "pesanan": 15
+    },
+    {
+        "id": 386,
+        "date_time": "2020-11-28 20:26:47",
+        "penjualan": "90468.56",
+        "pesanan": 19
+    },
+    {
+        "id": 387,
+        "date_time": "2020-10-30 21:31:24",
+        "penjualan": "48270.42",
+        "pesanan": 12
+    },
+    {
+        "id": 388,
+        "date_time": "2020-10-29 09:25:23",
+        "penjualan": "55274.12",
+        "pesanan": 14
+    },
+    {
+        "id": 389,
+        "date_time": "2020-09-01 18:40:10",
+        "penjualan": "62540.93",
+        "pesanan": 12
+    },
+    {
+        "id": 390,
+        "date_time": "2020-08-24 20:02:40",
+        "penjualan": "53299.63",
+        "pesanan": 10
+    },
+    {
+        "id": 391,
+        "date_time": "2020-10-25 10:03:42",
+        "penjualan": "60364.78",
+        "pesanan": 14
+    },
+    {
+        "id": 392,
+        "date_time": "2020-11-15 20:26:28",
+        "penjualan": "67300.82",
+        "pesanan": 15
+    },
+    {
+        "id": 393,
+        "date_time": "2020-11-12 08:03:39",
+        "penjualan": "17507.95",
+        "pesanan": 10
+    },
+    {
+        "id": 394,
+        "date_time": "2020-08-31 02:18:34",
+        "penjualan": "20996.97",
+        "pesanan": 15
+    },
+    {
+        "id": 395,
+        "date_time": "2020-10-07 08:18:16",
+        "penjualan": "20952.66",
+        "pesanan": 17
+    },
+    {
+        "id": 396,
+        "date_time": "2020-11-07 22:37:41",
+        "penjualan": "42709.79",
+        "pesanan": 13
+    },
+    {
+        "id": 397,
+        "date_time": "2020-09-01 20:24:37",
+        "penjualan": "20975.00",
+        "pesanan": 20
+    },
+    {
+        "id": 398,
+        "date_time": "2020-10-08 21:11:41",
+        "penjualan": "24668.96",
+        "pesanan": 20
+    },
+    {
+        "id": 399,
+        "date_time": "2020-10-08 11:38:50",
+        "penjualan": "22394.19",
+        "pesanan": 20
+    },
+    {
+        "id": 400,
+        "date_time": "2020-11-09 20:56:32",
+        "penjualan": "13188.67",
+        "pesanan": 18
+    },
+    {
+        "id": 401,
+        "date_time": "2020-10-18 08:13:11",
+        "penjualan": "68642.87",
+        "pesanan": 18
+    },
+    {
+        "id": 402,
+        "date_time": "2020-11-28 16:44:56",
+        "penjualan": "20616.24",
+        "pesanan": 12
+    },
+    {
+        "id": 403,
+        "date_time": "2020-08-29 10:02:28",
+        "penjualan": "57756.02",
+        "pesanan": 10
+    },
+    {
+        "id": 404,
+        "date_time": "2020-10-03 05:29:32",
+        "penjualan": "45830.10",
+        "pesanan": 13
+    },
+    {
+        "id": 405,
+        "date_time": "2020-08-22 04:18:53",
+        "penjualan": "26109.91",
+        "pesanan": 20
+    },
+    {
+        "id": 406,
+        "date_time": "2020-11-29 12:19:47",
+        "penjualan": "95091.89",
+        "pesanan": 14
+    },
+    {
+        "id": 407,
+        "date_time": "2020-11-21 12:02:29",
+        "penjualan": "37065.97",
+        "pesanan": 19
+    },
+    {
+        "id": 408,
+        "date_time": "2020-09-01 06:13:50",
+        "penjualan": "78458.72",
+        "pesanan": 14
+    },
+    {
+        "id": 409,
+        "date_time": "2020-09-14 20:42:32",
+        "penjualan": "63091.39",
+        "pesanan": 19
+    },
+    {
+        "id": 410,
+        "date_time": "2020-08-05 04:35:12",
+        "penjualan": "46135.44",
+        "pesanan": 13
+    },
+    {
+        "id": 411,
+        "date_time": "2020-08-22 11:19:33",
+        "penjualan": "63405.37",
+        "pesanan": 18
+    },
+    {
+        "id": 412,
+        "date_time": "2020-08-16 11:52:50",
+        "penjualan": "91902.22",
+        "pesanan": 10
+    },
+    {
+        "id": 413,
+        "date_time": "2020-08-10 12:17:50",
+        "penjualan": "38109.04",
+        "pesanan": 10
+    },
+    {
+        "id": 414,
+        "date_time": "2020-10-10 14:46:25",
+        "penjualan": "21978.67",
+        "pesanan": 20
+    },
+    {
+        "id": 415,
+        "date_time": "2020-10-22 12:49:09",
+        "penjualan": "38886.68",
+        "pesanan": 17
+    },
+    {
+        "id": 416,
+        "date_time": "2020-09-17 15:33:23",
+        "penjualan": "65432.35",
+        "pesanan": 14
+    },
+    {
+        "id": 417,
+        "date_time": "2020-11-10 20:19:37",
+        "penjualan": "91715.93",
+        "pesanan": 18
+    },
+    {
+        "id": 418,
+        "date_time": "2020-09-22 11:20:21",
+        "penjualan": "43571.28",
+        "pesanan": 19
+    },
+    {
+        "id": 419,
+        "date_time": "2020-10-23 07:13:28",
+        "penjualan": "25971.93",
+        "pesanan": 11
+    },
+    {
+        "id": 420,
+        "date_time": "2020-11-29 21:56:56",
+        "penjualan": "30264.42",
+        "pesanan": 17
+    },
+    {
+        "id": 421,
+        "date_time": "2020-08-24 05:50:26",
+        "penjualan": "16043.75",
+        "pesanan": 16
+    },
+    {
+        "id": 422,
+        "date_time": "2020-09-22 07:31:26",
+        "penjualan": "13962.90",
+        "pesanan": 14
+    },
+    {
+        "id": 423,
+        "date_time": "2020-08-28 17:48:43",
+        "penjualan": "84469.30",
+        "pesanan": 11
+    },
+    {
+        "id": 424,
+        "date_time": "2020-10-11 18:02:41",
+        "penjualan": "68996.28",
+        "pesanan": 17
+    },
+    {
+        "id": 425,
+        "date_time": "2020-08-09 06:52:30",
+        "penjualan": "74889.96",
+        "pesanan": 18
+    },
+    {
+        "id": 426,
+        "date_time": "2020-10-17 15:07:01",
+        "penjualan": "46026.27",
+        "pesanan": 15
+    },
+    {
+        "id": 427,
+        "date_time": "2020-10-04 18:04:39",
+        "penjualan": "64629.27",
+        "pesanan": 14
+    },
+    {
+        "id": 428,
+        "date_time": "2020-10-10 20:10:42",
+        "penjualan": "28037.59",
+        "pesanan": 18
+    },
+    {
+        "id": 429,
+        "date_time": "2020-11-06 18:08:23",
+        "penjualan": "34669.85",
+        "pesanan": 17
+    },
+    {
+        "id": 430,
+        "date_time": "2020-11-16 17:28:53",
+        "penjualan": "19037.60",
+        "pesanan": 16
+    },
+    {
+        "id": 431,
+        "date_time": "2020-10-04 03:24:42",
+        "penjualan": "92532.18",
+        "pesanan": 11
+    },
+    {
+        "id": 432,
+        "date_time": "2020-10-22 09:50:51",
+        "penjualan": "14799.35",
+        "pesanan": 12
+    },
+    {
+        "id": 433,
+        "date_time": "2020-11-28 09:55:43",
+        "penjualan": "69277.98",
+        "pesanan": 17
+    },
+    {
+        "id": 434,
+        "date_time": "2020-08-19 04:05:48",
+        "penjualan": "58765.06",
+        "pesanan": 19
+    },
+    {
+        "id": 435,
+        "date_time": "2020-09-27 00:58:50",
+        "penjualan": "83277.16",
+        "pesanan": 12
+    },
+    {
+        "id": 436,
+        "date_time": "2020-10-21 07:09:25",
+        "penjualan": "15894.91",
+        "pesanan": 14
+    },
+    {
+        "id": 437,
+        "date_time": "2020-08-21 19:08:11",
+        "penjualan": "92762.34",
+        "pesanan": 16
+    },
+    {
+        "id": 438,
+        "date_time": "2020-09-12 15:36:07",
+        "penjualan": "12640.12",
+        "pesanan": 16
+    },
+    {
+        "id": 439,
+        "date_time": "2020-11-17 17:33:20",
+        "penjualan": "72095.27",
+        "pesanan": 16
+    },
+    {
+        "id": 440,
+        "date_time": "2020-09-15 22:45:03",
+        "penjualan": "70100.95",
+        "pesanan": 18
+    },
+    {
+        "id": 441,
+        "date_time": "2020-09-13 05:14:29",
+        "penjualan": "35360.14",
+        "pesanan": 14
+    },
+    {
+        "id": 442,
+        "date_time": "2020-10-01 23:21:57",
+        "penjualan": "28937.33",
+        "pesanan": 11
+    },
+    {
+        "id": 443,
+        "date_time": "2020-11-18 03:58:47",
+        "penjualan": "42907.33",
+        "pesanan": 13
+    },
+    {
+        "id": 444,
+        "date_time": "2020-10-04 15:07:22",
+        "penjualan": "41322.55",
+        "pesanan": 17
+    },
+    {
+        "id": 445,
+        "date_time": "2020-09-15 01:17:04",
+        "penjualan": "82897.50",
+        "pesanan": 17
+    },
+    {
+        "id": 446,
+        "date_time": "2020-08-02 19:49:37",
+        "penjualan": "85200.65",
+        "pesanan": 16
+    },
+    {
+        "id": 447,
+        "date_time": "2020-08-02 02:22:20",
+        "penjualan": "38803.61",
+        "pesanan": 11
+    },
+    {
+        "id": 448,
+        "date_time": "2020-09-28 03:24:57",
+        "penjualan": "97351.95",
+        "pesanan": 16
+    },
+    {
+        "id": 449,
+        "date_time": "2020-11-05 03:53:50",
+        "penjualan": "60375.01",
+        "pesanan": 17
+    },
+    {
+        "id": 450,
+        "date_time": "2020-11-01 23:21:44",
+        "penjualan": "30649.09",
+        "pesanan": 12
+    },
+    {
+        "id": 451,
+        "date_time": "2020-09-05 13:22:50",
+        "penjualan": "21122.09",
+        "pesanan": 11
+    },
+    {
+        "id": 452,
+        "date_time": "2020-08-08 11:09:29",
+        "penjualan": "50936.63",
+        "pesanan": 17
+    },
+    {
+        "id": 453,
+        "date_time": "2020-10-01 17:03:30",
+        "penjualan": "39695.32",
+        "pesanan": 16
+    },
+    {
+        "id": 454,
+        "date_time": "2020-10-23 23:19:44",
+        "penjualan": "39974.29",
+        "pesanan": 14
+    },
+    {
+        "id": 455,
+        "date_time": "2020-10-04 14:08:37",
+        "penjualan": "98818.16",
+        "pesanan": 17
+    },
+    {
+        "id": 456,
+        "date_time": "2020-11-12 03:55:51",
+        "penjualan": "50427.20",
+        "pesanan": 12
+    },
+    {
+        "id": 457,
+        "date_time": "2020-10-12 19:11:18",
+        "penjualan": "64642.49",
+        "pesanan": 15
+    },
+    {
+        "id": 458,
+        "date_time": "2020-09-06 21:11:38",
+        "penjualan": "28735.84",
+        "pesanan": 16
+    },
+    {
+        "id": 459,
+        "date_time": "2020-08-16 00:03:54",
+        "penjualan": "75632.52",
+        "pesanan": 12
+    },
+    {
+        "id": 460,
+        "date_time": "2020-11-23 07:55:13",
+        "penjualan": "13235.17",
+        "pesanan": 12
+    },
+    {
+        "id": 461,
+        "date_time": "2020-10-07 20:37:13",
+        "penjualan": "67256.96",
+        "pesanan": 14
+    },
+    {
+        "id": 462,
+        "date_time": "2020-09-29 04:45:43",
+        "penjualan": "82543.69",
+        "pesanan": 16
+    },
+    {
+        "id": 463,
+        "date_time": "2020-10-16 12:30:24",
+        "penjualan": "20488.70",
+        "pesanan": 19
+    },
+    {
+        "id": 464,
+        "date_time": "2020-08-02 11:05:30",
+        "penjualan": "81224.56",
+        "pesanan": 17
+    },
+    {
+        "id": 465,
+        "date_time": "2020-08-02 18:23:55",
+        "penjualan": "86494.53",
+        "pesanan": 14
+    },
+    {
+        "id": 466,
+        "date_time": "2020-10-05 03:08:28",
+        "penjualan": "13523.14",
+        "pesanan": 17
+    },
+    {
+        "id": 467,
+        "date_time": "2020-11-02 08:15:22",
+        "penjualan": "99134.41",
+        "pesanan": 11
+    },
+    {
+        "id": 468,
+        "date_time": "2020-11-21 11:43:34",
+        "penjualan": "54176.53",
+        "pesanan": 20
+    },
+    {
+        "id": 469,
+        "date_time": "2020-09-27 14:37:13",
+        "penjualan": "59973.95",
+        "pesanan": 17
+    },
+    {
+        "id": 470,
+        "date_time": "2020-11-11 02:56:14",
+        "penjualan": "72931.34",
+        "pesanan": 18
+    },
+    {
+        "id": 471,
+        "date_time": "2020-08-21 20:17:23",
+        "penjualan": "40717.81",
+        "pesanan": 10
+    },
+    {
+        "id": 472,
+        "date_time": "2020-11-19 08:52:45",
+        "penjualan": "19327.16",
+        "pesanan": 12
+    },
+    {
+        "id": 473,
+        "date_time": "2020-10-03 06:59:31",
+        "penjualan": "79455.63",
+        "pesanan": 14
+    },
+    {
+        "id": 474,
+        "date_time": "2020-08-19 10:43:45",
+        "penjualan": "97819.48",
+        "pesanan": 17
+    },
+    {
+        "id": 475,
+        "date_time": "2020-11-01 06:34:30",
+        "penjualan": "73238.08",
+        "pesanan": 11
+    },
+    {
+        "id": 476,
+        "date_time": "2020-10-08 15:32:21",
+        "penjualan": "79011.88",
+        "pesanan": 10
+    },
+    {
+        "id": 477,
+        "date_time": "2020-08-04 05:54:02",
+        "penjualan": "27583.04",
+        "pesanan": 19
+    },
+    {
+        "id": 478,
+        "date_time": "2020-08-24 02:11:29",
+        "penjualan": "50150.24",
+        "pesanan": 20
+    },
+    {
+        "id": 479,
+        "date_time": "2020-09-12 22:26:05",
+        "penjualan": "40489.92",
+        "pesanan": 15
+    },
+    {
+        "id": 480,
+        "date_time": "2020-09-05 00:16:15",
+        "penjualan": "62521.90",
+        "pesanan": 15
+    },
+    {
+        "id": 481,
+        "date_time": "2020-09-01 11:10:58",
+        "penjualan": "68218.68",
+        "pesanan": 13
+    },
+    {
+        "id": 482,
+        "date_time": "2020-11-06 05:07:27",
+        "penjualan": "23971.59",
+        "pesanan": 11
+    },
+    {
+        "id": 483,
+        "date_time": "2020-10-14 07:34:04",
+        "penjualan": "60520.15",
+        "pesanan": 11
+    },
+    {
+        "id": 484,
+        "date_time": "2020-08-23 04:39:36",
+        "penjualan": "97352.44",
+        "pesanan": 18
+    },
+    {
+        "id": 485,
+        "date_time": "2020-11-13 22:11:21",
+        "penjualan": "98814.40",
+        "pesanan": 13
+    },
+    {
+        "id": 486,
+        "date_time": "2020-10-18 22:45:03",
+        "penjualan": "44409.30",
+        "pesanan": 20
+    },
+    {
+        "id": 487,
+        "date_time": "2020-09-20 03:19:42",
+        "penjualan": "39517.40",
+        "pesanan": 16
+    },
+    {
+        "id": 488,
+        "date_time": "2020-08-27 10:46:26",
+        "penjualan": "80760.76",
+        "pesanan": 16
+    },
+    {
+        "id": 489,
+        "date_time": "2020-11-05 12:52:18",
+        "penjualan": "49253.74",
+        "pesanan": 13
+    },
+    {
+        "id": 490,
+        "date_time": "2020-08-18 07:43:04",
+        "penjualan": "71236.02",
+        "pesanan": 10
+    },
+    {
+        "id": 491,
+        "date_time": "2020-10-31 04:00:06",
+        "penjualan": "64281.61",
+        "pesanan": 15
+    },
+    {
+        "id": 492,
+        "date_time": "2020-09-26 04:10:47",
+        "penjualan": "41670.48",
+        "pesanan": 16
+    },
+    {
+        "id": 493,
+        "date_time": "2020-10-27 23:17:26",
+        "penjualan": "49379.28",
+        "pesanan": 19
+    },
+    {
+        "id": 494,
+        "date_time": "2020-09-29 10:53:02",
+        "penjualan": "12110.71",
+        "pesanan": 19
+    },
+    {
+        "id": 495,
+        "date_time": "2020-08-10 01:37:29",
+        "penjualan": "49773.89",
+        "pesanan": 15
+    },
+    {
+        "id": 496,
+        "date_time": "2020-09-22 14:39:41",
+        "penjualan": "33068.68",
+        "pesanan": 17
+    },
+    {
+        "id": 497,
+        "date_time": "2020-10-28 02:07:36",
+        "penjualan": "45801.63",
+        "pesanan": 14
+    },
+    {
+        "id": 498,
+        "date_time": "2020-10-22 02:03:28",
+        "penjualan": "24845.61",
+        "pesanan": 12
+    },
+    {
+        "id": 499,
+        "date_time": "2020-09-21 14:54:04",
+        "penjualan": "94729.05",
+        "pesanan": 14
+    },
+    {
+        "id": 500,
+        "date_time": "2020-10-25 09:23:27",
+        "penjualan": "69423.03",
+        "pesanan": 17
+    },
+    {
+        "id": 501,
+        "date_time": "2020-11-15 14:12:07",
+        "penjualan": "10553.39",
+        "pesanan": 13
+    },
+    {
+        "id": 502,
+        "date_time": "2020-08-24 20:54:34",
+        "penjualan": "39969.43",
+        "pesanan": 10
+    },
+    {
+        "id": 503,
+        "date_time": "2020-09-06 23:51:17",
+        "penjualan": "56679.57",
+        "pesanan": 10
+    },
+    {
+        "id": 504,
+        "date_time": "2020-09-08 14:09:32",
+        "penjualan": "91321.78",
+        "pesanan": 17
+    },
+    {
+        "id": 505,
+        "date_time": "2020-08-03 12:08:54",
+        "penjualan": "51307.82",
+        "pesanan": 14
+    },
+    {
+        "id": 506,
+        "date_time": "2020-08-28 18:55:00",
+        "penjualan": "10093.72",
+        "pesanan": 14
+    },
+    {
+        "id": 507,
+        "date_time": "2020-10-03 07:04:35",
+        "penjualan": "61770.28",
+        "pesanan": 10
+    },
+    {
+        "id": 508,
+        "date_time": "2020-10-02 16:01:52",
+        "penjualan": "27709.54",
+        "pesanan": 13
+    },
+    {
+        "id": 509,
+        "date_time": "2020-11-20 16:45:37",
+        "penjualan": "17055.57",
+        "pesanan": 10
+    },
+    {
+        "id": 510,
+        "date_time": "2020-11-06 16:49:09",
+        "penjualan": "14335.19",
+        "pesanan": 19
+    },
+    {
+        "id": 511,
+        "date_time": "2020-11-29 02:03:45",
+        "penjualan": "19487.24",
+        "pesanan": 12
+    },
+    {
+        "id": 512,
+        "date_time": "2020-09-03 05:15:07",
+        "penjualan": "36516.99",
+        "pesanan": 17
+    },
+    {
+        "id": 513,
+        "date_time": "2020-11-15 14:18:20",
+        "penjualan": "68088.20",
+        "pesanan": 10
+    },
+    {
+        "id": 514,
+        "date_time": "2020-09-14 12:27:16",
+        "penjualan": "33709.97",
+        "pesanan": 10
+    },
+    {
+        "id": 515,
+        "date_time": "2020-09-20 12:14:50",
+        "penjualan": "81297.42",
+        "pesanan": 15
+    },
+    {
+        "id": 516,
+        "date_time": "2020-09-17 08:29:44",
+        "penjualan": "33401.46",
+        "pesanan": 11
+    },
+    {
+        "id": 517,
+        "date_time": "2020-10-06 09:33:09",
+        "penjualan": "82421.06",
+        "pesanan": 11
+    },
+    {
+        "id": 518,
+        "date_time": "2020-09-22 06:14:26",
+        "penjualan": "89696.38",
+        "pesanan": 16
+    },
+    {
+        "id": 519,
+        "date_time": "2020-09-10 10:02:37",
+        "penjualan": "65315.49",
+        "pesanan": 20
+    },
+    {
+        "id": 520,
+        "date_time": "2020-11-13 15:23:36",
+        "penjualan": "95048.33",
+        "pesanan": 10
+    },
+    {
+        "id": 521,
+        "date_time": "2020-08-10 16:42:13",
+        "penjualan": "77440.85",
+        "pesanan": 12
+    },
+    {
+        "id": 522,
+        "date_time": "2020-11-26 04:31:16",
+        "penjualan": "34279.50",
+        "pesanan": 12
+    },
+    {
+        "id": 523,
+        "date_time": "2020-09-22 00:50:03",
+        "penjualan": "36734.92",
+        "pesanan": 12
+    },
+    {
+        "id": 524,
+        "date_time": "2020-10-27 17:09:33",
+        "penjualan": "27270.93",
+        "pesanan": 12
+    },
+    {
+        "id": 525,
+        "date_time": "2020-09-17 17:51:02",
+        "penjualan": "20277.83",
+        "pesanan": 17
+    },
+    {
+        "id": 526,
+        "date_time": "2020-10-15 17:47:26",
+        "penjualan": "80957.71",
+        "pesanan": 10
+    },
+    {
+        "id": 527,
+        "date_time": "2020-10-18 22:44:00",
+        "penjualan": "69080.49",
+        "pesanan": 16
+    },
+    {
+        "id": 528,
+        "date_time": "2020-10-23 05:51:58",
+        "penjualan": "94256.31",
+        "pesanan": 10
+    },
+    {
+        "id": 529,
+        "date_time": "2020-10-17 09:18:43",
+        "penjualan": "32784.55",
+        "pesanan": 11
+    },
+    {
+        "id": 530,
+        "date_time": "2020-08-24 02:34:11",
+        "penjualan": "18137.20",
+        "pesanan": 16
+    },
+    {
+        "id": 531,
+        "date_time": "2020-09-08 09:20:58",
+        "penjualan": "72344.21",
+        "pesanan": 20
+    },
+    {
+        "id": 532,
+        "date_time": "2020-11-26 10:13:17",
+        "penjualan": "62541.49",
+        "pesanan": 20
+    },
+    {
+        "id": 533,
+        "date_time": "2020-08-05 21:33:19",
+        "penjualan": "61434.17",
+        "pesanan": 16
+    },
+    {
+        "id": 534,
+        "date_time": "2020-10-01 00:30:51",
+        "penjualan": "44130.27",
+        "pesanan": 15
+    },
+    {
+        "id": 535,
+        "date_time": "2020-10-16 10:21:05",
+        "penjualan": "89561.99",
+        "pesanan": 13
+    },
+    {
+        "id": 536,
+        "date_time": "2020-09-21 09:05:15",
+        "penjualan": "85221.83",
+        "pesanan": 19
+    },
+    {
+        "id": 537,
+        "date_time": "2020-10-27 08:02:46",
+        "penjualan": "59484.93",
+        "pesanan": 14
+    },
+    {
+        "id": 538,
+        "date_time": "2020-08-20 23:09:53",
+        "penjualan": "18723.59",
+        "pesanan": 10
+    },
+    {
+        "id": 539,
+        "date_time": "2020-10-03 00:36:46",
+        "penjualan": "73569.01",
+        "pesanan": 16
+    },
+    {
+        "id": 540,
+        "date_time": "2020-10-15 11:06:29",
+        "penjualan": "36918.76",
+        "pesanan": 20
+    },
+    {
+        "id": 541,
+        "date_time": "2020-09-14 06:08:27",
+        "penjualan": "17354.02",
+        "pesanan": 16
+    },
+    {
+        "id": 542,
+        "date_time": "2020-08-15 15:56:36",
+        "penjualan": "59502.28",
+        "pesanan": 17
+    },
+    {
+        "id": 543,
+        "date_time": "2020-08-25 16:54:26",
+        "penjualan": "31780.42",
+        "pesanan": 16
+    },
+    {
+        "id": 544,
+        "date_time": "2020-09-16 01:13:28",
+        "penjualan": "41165.93",
+        "pesanan": 14
+    },
+    {
+        "id": 545,
+        "date_time": "2020-11-26 13:12:04",
+        "penjualan": "33918.17",
+        "pesanan": 20
+    },
+    {
+        "id": 546,
+        "date_time": "2020-08-28 09:36:14",
+        "penjualan": "44405.48",
+        "pesanan": 13
+    },
+    {
+        "id": 547,
+        "date_time": "2020-09-16 17:05:37",
+        "penjualan": "12216.49",
+        "pesanan": 11
+    },
+    {
+        "id": 548,
+        "date_time": "2020-10-09 07:21:38",
+        "penjualan": "83553.88",
+        "pesanan": 19
+    },
+    {
+        "id": 549,
+        "date_time": "2020-10-22 00:18:15",
+        "penjualan": "61330.01",
+        "pesanan": 18
+    },
+    {
+        "id": 550,
+        "date_time": "2020-08-30 03:17:32",
+        "penjualan": "48555.17",
+        "pesanan": 17
+    },
+    {
+        "id": 551,
+        "date_time": "2020-09-09 12:03:00",
+        "penjualan": "92833.01",
+        "pesanan": 20
+    },
+    {
+        "id": 552,
+        "date_time": "2020-11-02 21:30:21",
+        "penjualan": "92454.65",
+        "pesanan": 17
+    },
+    {
+        "id": 553,
+        "date_time": "2020-08-23 22:39:39",
+        "penjualan": "11686.14",
+        "pesanan": 15
+    },
+    {
+        "id": 554,
+        "date_time": "2020-08-31 07:47:45",
+        "penjualan": "45501.28",
+        "pesanan": 15
+    },
+    {
+        "id": 555,
+        "date_time": "2020-11-11 20:33:43",
+        "penjualan": "82268.17",
+        "pesanan": 16
+    },
+    {
+        "id": 556,
+        "date_time": "2020-11-10 02:12:29",
+        "penjualan": "12128.40",
+        "pesanan": 13
+    },
+    {
+        "id": 557,
+        "date_time": "2020-09-02 04:20:48",
+        "penjualan": "82412.14",
+        "pesanan": 14
+    },
+    {
+        "id": 558,
+        "date_time": "2020-09-01 04:40:26",
+        "penjualan": "92169.91",
+        "pesanan": 12
+    },
+    {
+        "id": 559,
+        "date_time": "2020-09-09 22:22:23",
+        "penjualan": "28930.11",
+        "pesanan": 19
+    },
+    {
+        "id": 560,
+        "date_time": "2020-09-04 09:41:35",
+        "penjualan": "26129.89",
+        "pesanan": 16
+    },
+    {
+        "id": 561,
+        "date_time": "2020-09-10 02:08:36",
+        "penjualan": "96829.36",
+        "pesanan": 14
+    },
+    {
+        "id": 562,
+        "date_time": "2020-10-13 08:18:59",
+        "penjualan": "24346.93",
+        "pesanan": 13
+    },
+    {
+        "id": 563,
+        "date_time": "2020-09-19 03:22:34",
+        "penjualan": "94058.85",
+        "pesanan": 10
+    },
+    {
+        "id": 564,
+        "date_time": "2020-11-27 09:03:02",
+        "penjualan": "20357.00",
+        "pesanan": 12
+    },
+    {
+        "id": 565,
+        "date_time": "2020-08-17 18:47:05",
+        "penjualan": "96702.66",
+        "pesanan": 15
+    },
+    {
+        "id": 566,
+        "date_time": "2020-08-08 19:52:19",
+        "penjualan": "81328.31",
+        "pesanan": 14
+    },
+    {
+        "id": 567,
+        "date_time": "2020-11-05 23:51:06",
+        "penjualan": "84617.82",
+        "pesanan": 13
+    },
+    {
+        "id": 568,
+        "date_time": "2020-10-10 19:27:51",
+        "penjualan": "13250.89",
+        "pesanan": 17
+    },
+    {
+        "id": 569,
+        "date_time": "2020-08-02 04:22:31",
+        "penjualan": "65541.46",
+        "pesanan": 16
+    },
+    {
+        "id": 570,
+        "date_time": "2020-08-28 23:20:42",
+        "penjualan": "87827.02",
+        "pesanan": 15
+    },
+    {
+        "id": 571,
+        "date_time": "2020-11-12 10:47:55",
+        "penjualan": "23049.41",
+        "pesanan": 14
+    },
+    {
+        "id": 572,
+        "date_time": "2020-10-09 21:17:40",
+        "penjualan": "67915.56",
+        "pesanan": 10
+    },
+    {
+        "id": 573,
+        "date_time": "2020-10-03 01:35:24",
+        "penjualan": "52478.75",
+        "pesanan": 19
+    },
+    {
+        "id": 574,
+        "date_time": "2020-09-09 03:11:29",
+        "penjualan": "67770.43",
+        "pesanan": 13
+    },
+    {
+        "id": 575,
+        "date_time": "2020-09-29 11:13:48",
+        "penjualan": "38700.75",
+        "pesanan": 15
+    },
+    {
+        "id": 576,
+        "date_time": "2020-08-02 17:20:27",
+        "penjualan": "13157.05",
+        "pesanan": 18
+    },
+    {
+        "id": 577,
+        "date_time": "2020-10-09 23:18:14",
+        "penjualan": "19933.35",
+        "pesanan": 14
+    },
+    {
+        "id": 578,
+        "date_time": "2020-11-22 10:20:40",
+        "penjualan": "63017.40",
+        "pesanan": 15
+    },
+    {
+        "id": 579,
+        "date_time": "2020-11-24 07:08:09",
+        "penjualan": "75273.88",
+        "pesanan": 14
+    },
+    {
+        "id": 580,
+        "date_time": "2020-10-12 08:31:37",
+        "penjualan": "17202.75",
+        "pesanan": 11
+    },
+    {
+        "id": 581,
+        "date_time": "2020-11-21 06:29:52",
+        "penjualan": "90776.43",
+        "pesanan": 18
+    },
+    {
+        "id": 582,
+        "date_time": "2020-10-31 12:21:10",
+        "penjualan": "87362.36",
+        "pesanan": 16
+    },
+    {
+        "id": 583,
+        "date_time": "2020-11-09 03:38:47",
+        "penjualan": "21741.99",
+        "pesanan": 16
+    },
+    {
+        "id": 584,
+        "date_time": "2020-09-02 02:42:35",
+        "penjualan": "11256.92",
+        "pesanan": 13
+    },
+    {
+        "id": 585,
+        "date_time": "2020-09-19 23:33:25",
+        "penjualan": "90076.10",
+        "pesanan": 15
+    },
+    {
+        "id": 586,
+        "date_time": "2020-10-11 14:51:03",
+        "penjualan": "98758.47",
+        "pesanan": 19
+    },
+    {
+        "id": 587,
+        "date_time": "2020-10-06 07:19:51",
+        "penjualan": "41134.61",
+        "pesanan": 17
+    },
+    {
+        "id": 588,
+        "date_time": "2020-11-07 17:41:25",
+        "penjualan": "25015.50",
+        "pesanan": 11
+    },
+    {
+        "id": 589,
+        "date_time": "2020-10-04 04:20:55",
+        "penjualan": "21541.89",
+        "pesanan": 17
+    },
+    {
+        "id": 590,
+        "date_time": "2020-08-06 02:17:06",
+        "penjualan": "72324.40",
+        "pesanan": 18
+    },
+    {
+        "id": 591,
+        "date_time": "2020-08-02 07:39:05",
+        "penjualan": "88102.81",
+        "pesanan": 18
+    },
+    {
+        "id": 592,
+        "date_time": "2020-11-08 07:53:26",
+        "penjualan": "47089.28",
+        "pesanan": 13
+    },
+    {
+        "id": 593,
+        "date_time": "2020-09-06 15:43:35",
+        "penjualan": "53508.66",
+        "pesanan": 15
+    },
+    {
+        "id": 594,
+        "date_time": "2020-09-05 15:18:43",
+        "penjualan": "82668.47",
+        "pesanan": 14
+    },
+    {
+        "id": 595,
+        "date_time": "2020-11-08 00:09:27",
+        "penjualan": "99192.02",
+        "pesanan": 10
+    },
+    {
+        "id": 596,
+        "date_time": "2020-11-21 08:57:51",
+        "penjualan": "93403.30",
+        "pesanan": 19
+    },
+    {
+        "id": 597,
+        "date_time": "2020-11-27 16:34:40",
+        "penjualan": "48060.29",
+        "pesanan": 14
+    },
+    {
+        "id": 598,
+        "date_time": "2020-08-11 12:58:31",
+        "penjualan": "10871.67",
+        "pesanan": 14
+    },
+    {
+        "id": 599,
+        "date_time": "2020-09-13 17:50:09",
+        "penjualan": "57750.71",
+        "pesanan": 15
+    },
+    {
+        "id": 600,
+        "date_time": "2020-10-18 22:19:41",
+        "penjualan": "73008.15",
+        "pesanan": 13
+    },
+    {
+        "id": 601,
+        "date_time": "2020-09-17 20:19:44",
+        "penjualan": "65033.24",
+        "pesanan": 19
+    },
+    {
+        "id": 602,
+        "date_time": "2020-08-06 09:10:27",
+        "penjualan": "49132.84",
+        "pesanan": 19
+    },
+    {
+        "id": 603,
+        "date_time": "2020-10-30 11:15:52",
+        "penjualan": "22066.57",
+        "pesanan": 18
+    },
+    {
+        "id": 604,
+        "date_time": "2020-10-14 15:31:50",
+        "penjualan": "26711.92",
+        "pesanan": 19
+    },
+    {
+        "id": 605,
+        "date_time": "2020-11-21 18:05:38",
+        "penjualan": "64038.22",
+        "pesanan": 20
+    },
+    {
+        "id": 606,
+        "date_time": "2020-08-01 22:33:07",
+        "penjualan": "68719.99",
+        "pesanan": 12
+    },
+    {
+        "id": 607,
+        "date_time": "2020-11-25 16:19:36",
+        "penjualan": "14358.46",
+        "pesanan": 10
+    },
+    {
+        "id": 608,
+        "date_time": "2020-11-20 02:24:57",
+        "penjualan": "91697.29",
+        "pesanan": 13
+    },
+    {
+        "id": 609,
+        "date_time": "2020-09-14 08:49:44",
+        "penjualan": "62801.27",
+        "pesanan": 19
+    },
+    {
+        "id": 610,
+        "date_time": "2020-08-24 12:25:50",
+        "penjualan": "25403.27",
+        "pesanan": 15
+    },
+    {
+        "id": 611,
+        "date_time": "2020-10-29 11:02:35",
+        "penjualan": "32441.89",
+        "pesanan": 12
+    },
+    {
+        "id": 612,
+        "date_time": "2020-11-22 04:20:22",
+        "penjualan": "82517.62",
+        "pesanan": 16
+    },
+    {
+        "id": 613,
+        "date_time": "2020-11-02 09:29:44",
+        "penjualan": "12088.16",
+        "pesanan": 14
+    },
+    {
+        "id": 614,
+        "date_time": "2020-09-01 16:42:18",
+        "penjualan": "78403.84",
+        "pesanan": 12
+    },
+    {
+        "id": 615,
+        "date_time": "2020-10-29 16:28:14",
+        "penjualan": "88568.87",
+        "pesanan": 10
+    },
+    {
+        "id": 616,
+        "date_time": "2020-09-12 03:50:44",
+        "penjualan": "65370.30",
+        "pesanan": 15
+    },
+    {
+        "id": 617,
+        "date_time": "2020-11-22 04:13:12",
+        "penjualan": "62716.06",
+        "pesanan": 16
+    },
+    {
+        "id": 618,
+        "date_time": "2020-11-25 01:52:39",
+        "penjualan": "98421.86",
+        "pesanan": 10
+    },
+    {
+        "id": 619,
+        "date_time": "2020-10-05 18:31:30",
+        "penjualan": "51614.67",
+        "pesanan": 12
+    },
+    {
+        "id": 620,
+        "date_time": "2020-09-14 06:42:14",
+        "penjualan": "81764.69",
+        "pesanan": 20
+    },
+    {
+        "id": 621,
+        "date_time": "2020-10-25 15:27:55",
+        "penjualan": "98348.27",
+        "pesanan": 15
+    },
+    {
+        "id": 622,
+        "date_time": "2020-09-16 04:38:17",
+        "penjualan": "19452.23",
+        "pesanan": 10
+    },
+    {
+        "id": 623,
+        "date_time": "2020-10-02 20:37:33",
+        "penjualan": "99785.98",
+        "pesanan": 12
+    },
+    {
+        "id": 624,
+        "date_time": "2020-09-16 13:16:43",
+        "penjualan": "48944.55",
+        "pesanan": 10
+    },
+    {
+        "id": 625,
+        "date_time": "2020-08-03 16:00:45",
+        "penjualan": "48886.33",
+        "pesanan": 13
+    },
+    {
+        "id": 626,
+        "date_time": "2020-10-28 07:31:33",
+        "penjualan": "91081.80",
+        "pesanan": 10
+    },
+    {
+        "id": 627,
+        "date_time": "2020-09-28 19:27:21",
+        "penjualan": "67934.04",
+        "pesanan": 11
+    },
+    {
+        "id": 628,
+        "date_time": "2020-10-02 20:07:50",
+        "penjualan": "33795.03",
+        "pesanan": 13
+    },
+    {
+        "id": 629,
+        "date_time": "2020-11-15 06:36:43",
+        "penjualan": "25525.75",
+        "pesanan": 13
+    },
+    {
+        "id": 630,
+        "date_time": "2020-09-27 05:53:34",
+        "penjualan": "49595.80",
+        "pesanan": 11
+    },
+    {
+        "id": 631,
+        "date_time": "2020-11-25 16:54:53",
+        "penjualan": "65035.73",
+        "pesanan": 14
+    },
+    {
+        "id": 632,
+        "date_time": "2020-09-01 12:59:49",
+        "penjualan": "90305.45",
+        "pesanan": 11
+    },
+    {
+        "id": 633,
+        "date_time": "2020-11-12 08:47:11",
+        "penjualan": "53042.05",
+        "pesanan": 15
+    },
+    {
+        "id": 634,
+        "date_time": "2020-08-05 09:31:49",
+        "penjualan": "24435.20",
+        "pesanan": 10
+    },
+    {
+        "id": 635,
+        "date_time": "2020-10-24 18:43:54",
+        "penjualan": "61252.99",
+        "pesanan": 18
+    },
+    {
+        "id": 636,
+        "date_time": "2020-08-12 17:51:31",
+        "penjualan": "90013.18",
+        "pesanan": 11
+    },
+    {
+        "id": 637,
+        "date_time": "2020-11-02 13:51:54",
+        "penjualan": "38657.42",
+        "pesanan": 16
+    },
+    {
+        "id": 638,
+        "date_time": "2020-09-14 03:08:02",
+        "penjualan": "18885.70",
+        "pesanan": 10
+    },
+    {
+        "id": 639,
+        "date_time": "2020-09-10 15:34:26",
+        "penjualan": "55201.38",
+        "pesanan": 20
+    },
+    {
+        "id": 640,
+        "date_time": "2020-08-16 10:30:10",
+        "penjualan": "33755.98",
+        "pesanan": 14
+    },
+    {
+        "id": 641,
+        "date_time": "2020-10-29 23:56:07",
+        "penjualan": "26898.58",
+        "pesanan": 12
+    },
+    {
+        "id": 642,
+        "date_time": "2020-11-20 14:22:55",
+        "penjualan": "68482.17",
+        "pesanan": 18
+    },
+    {
+        "id": 643,
+        "date_time": "2020-08-07 15:24:34",
+        "penjualan": "59317.19",
+        "pesanan": 19
+    },
+    {
+        "id": 644,
+        "date_time": "2020-10-18 16:30:15",
+        "penjualan": "10739.77",
+        "pesanan": 11
+    },
+    {
+        "id": 645,
+        "date_time": "2020-11-10 23:10:06",
+        "penjualan": "43397.15",
+        "pesanan": 11
+    },
+    {
+        "id": 646,
+        "date_time": "2020-09-28 15:48:04",
+        "penjualan": "79289.44",
+        "pesanan": 10
+    },
+    {
+        "id": 647,
+        "date_time": "2020-09-06 16:38:25",
+        "penjualan": "40230.96",
+        "pesanan": 17
+    },
+    {
+        "id": 648,
+        "date_time": "2020-11-23 20:38:40",
+        "penjualan": "69274.10",
+        "pesanan": 17
+    },
+    {
+        "id": 649,
+        "date_time": "2020-08-05 22:06:38",
+        "penjualan": "74808.11",
+        "pesanan": 18
+    },
+    {
+        "id": 650,
+        "date_time": "2020-09-24 18:24:44",
+        "penjualan": "39765.19",
+        "pesanan": 19
+    },
+    {
+        "id": 651,
+        "date_time": "2020-08-08 18:48:02",
+        "penjualan": "32766.76",
+        "pesanan": 10
+    },
+    {
+        "id": 652,
+        "date_time": "2020-08-30 11:21:48",
+        "penjualan": "79010.26",
+        "pesanan": 18
+    },
+    {
+        "id": 653,
+        "date_time": "2020-11-07 07:02:11",
+        "penjualan": "67250.05",
+        "pesanan": 20
+    },
+    {
+        "id": 654,
+        "date_time": "2020-09-24 18:22:35",
+        "penjualan": "98884.47",
+        "pesanan": 19
+    },
+    {
+        "id": 655,
+        "date_time": "2020-10-12 07:46:40",
+        "penjualan": "27574.35",
+        "pesanan": 13
+    },
+    {
+        "id": 656,
+        "date_time": "2020-09-11 18:07:28",
+        "penjualan": "26399.52",
+        "pesanan": 19
+    },
+    {
+        "id": 657,
+        "date_time": "2020-08-25 12:35:44",
+        "penjualan": "21174.69",
+        "pesanan": 18
+    },
+    {
+        "id": 658,
+        "date_time": "2020-11-13 08:27:24",
+        "penjualan": "17461.15",
+        "pesanan": 13
+    },
+    {
+        "id": 659,
+        "date_time": "2020-08-20 05:45:50",
+        "penjualan": "20469.88",
+        "pesanan": 17
+    },
+    {
+        "id": 660,
+        "date_time": "2020-08-04 05:02:03",
+        "penjualan": "68215.40",
+        "pesanan": 20
+    },
+    {
+        "id": 661,
+        "date_time": "2020-11-19 21:26:25",
+        "penjualan": "39022.94",
+        "pesanan": 16
+    },
+    {
+        "id": 662,
+        "date_time": "2020-08-03 17:48:48",
+        "penjualan": "60897.55",
+        "pesanan": 13
+    },
+    {
+        "id": 663,
+        "date_time": "2020-10-29 03:10:56",
+        "penjualan": "61182.07",
+        "pesanan": 17
+    },
+    {
+        "id": 664,
+        "date_time": "2020-08-03 12:03:29",
+        "penjualan": "78719.71",
+        "pesanan": 14
+    },
+    {
+        "id": 665,
+        "date_time": "2020-08-15 10:56:57",
+        "penjualan": "28081.29",
+        "pesanan": 10
+    },
+    {
+        "id": 666,
+        "date_time": "2020-08-19 23:09:44",
+        "penjualan": "77107.63",
+        "pesanan": 16
+    },
+    {
+        "id": 667,
+        "date_time": "2020-11-18 08:14:14",
+        "penjualan": "11379.15",
+        "pesanan": 11
+    },
+    {
+        "id": 668,
+        "date_time": "2020-09-01 20:03:52",
+        "penjualan": "64450.90",
+        "pesanan": 17
+    },
+    {
+        "id": 669,
+        "date_time": "2020-11-13 22:07:25",
+        "penjualan": "18882.98",
+        "pesanan": 18
+    },
+    {
+        "id": 670,
+        "date_time": "2020-09-26 20:59:42",
+        "penjualan": "17336.96",
+        "pesanan": 20
+    },
+    {
+        "id": 671,
+        "date_time": "2020-09-09 23:52:13",
+        "penjualan": "83068.88",
+        "pesanan": 14
+    },
+    {
+        "id": 672,
+        "date_time": "2020-11-27 23:58:34",
+        "penjualan": "79063.62",
+        "pesanan": 13
+    },
+    {
+        "id": 673,
+        "date_time": "2020-11-19 16:16:00",
+        "penjualan": "94326.52",
+        "pesanan": 14
+    },
+    {
+        "id": 674,
+        "date_time": "2020-09-03 20:53:05",
+        "penjualan": "16896.30",
+        "pesanan": 12
+    },
+    {
+        "id": 675,
+        "date_time": "2020-10-09 23:29:53",
+        "penjualan": "68215.06",
+        "pesanan": 20
+    },
+    {
+        "id": 676,
+        "date_time": "2020-09-08 18:50:34",
+        "penjualan": "15260.51",
+        "pesanan": 15
+    },
+    {
+        "id": 677,
+        "date_time": "2020-10-17 23:29:41",
+        "penjualan": "19000.09",
+        "pesanan": 18
+    },
+    {
+        "id": 678,
+        "date_time": "2020-09-18 06:13:39",
+        "penjualan": "82852.66",
+        "pesanan": 18
+    },
+    {
+        "id": 679,
+        "date_time": "2020-08-26 21:52:02",
+        "penjualan": "43626.74",
+        "pesanan": 20
+    },
+    {
+        "id": 680,
+        "date_time": "2020-08-14 08:14:09",
+        "penjualan": "62426.69",
+        "pesanan": 14
+    },
+    {
+        "id": 681,
+        "date_time": "2020-09-12 03:18:10",
+        "penjualan": "50841.48",
+        "pesanan": 14
+    },
+    {
+        "id": 682,
+        "date_time": "2020-10-06 20:24:20",
+        "penjualan": "14647.10",
+        "pesanan": 17
+    },
+    {
+        "id": 683,
+        "date_time": "2020-10-23 09:17:30",
+        "penjualan": "95988.33",
+        "pesanan": 20
+    },
+    {
+        "id": 684,
+        "date_time": "2020-09-06 10:16:57",
+        "penjualan": "85110.36",
+        "pesanan": 20
+    },
+    {
+        "id": 685,
+        "date_time": "2020-09-09 19:27:24",
+        "penjualan": "27150.41",
+        "pesanan": 15
+    },
+    {
+        "id": 686,
+        "date_time": "2020-09-26 17:16:37",
+        "penjualan": "78378.60",
+        "pesanan": 10
+    },
+    {
+        "id": 687,
+        "date_time": "2020-10-02 23:32:58",
+        "penjualan": "83337.62",
+        "pesanan": 17
+    },
+    {
+        "id": 688,
+        "date_time": "2020-08-01 12:09:34",
+        "penjualan": "26450.91",
+        "pesanan": 19
+    },
+    {
+        "id": 689,
+        "date_time": "2020-11-21 06:03:34",
+        "penjualan": "60818.09",
+        "pesanan": 12
+    },
+    {
+        "id": 690,
+        "date_time": "2020-11-01 10:17:54",
+        "penjualan": "46707.51",
+        "pesanan": 20
+    },
+    {
+        "id": 691,
+        "date_time": "2020-10-13 22:48:55",
+        "penjualan": "15456.03",
+        "pesanan": 17
+    },
+    {
+        "id": 692,
+        "date_time": "2020-09-23 03:32:40",
+        "penjualan": "87119.00",
+        "pesanan": 11
+    },
+    {
+        "id": 693,
+        "date_time": "2020-11-02 06:11:00",
+        "penjualan": "97324.05",
+        "pesanan": 13
+    },
+    {
+        "id": 694,
+        "date_time": "2020-10-05 21:19:22",
+        "penjualan": "12476.64",
+        "pesanan": 20
+    },
+    {
+        "id": 695,
+        "date_time": "2020-11-23 23:44:37",
+        "penjualan": "76436.12",
+        "pesanan": 20
+    },
+    {
+        "id": 696,
+        "date_time": "2020-10-18 12:39:26",
+        "penjualan": "22004.01",
+        "pesanan": 12
+    },
+    {
+        "id": 697,
+        "date_time": "2020-11-12 23:15:57",
+        "penjualan": "40183.70",
+        "pesanan": 16
+    },
+    {
+        "id": 698,
+        "date_time": "2020-08-18 10:25:52",
+        "penjualan": "78757.67",
+        "pesanan": 17
+    },
+    {
+        "id": 699,
+        "date_time": "2020-11-20 10:29:09",
+        "penjualan": "73427.08",
+        "pesanan": 10
+    },
+    {
+        "id": 700,
+        "date_time": "2020-11-26 13:07:51",
+        "penjualan": "43155.96",
+        "pesanan": 18
+    },
+    {
+        "id": 701,
+        "date_time": "2020-09-22 07:50:57",
+        "penjualan": "59013.14",
+        "pesanan": 15
+    },
+    {
+        "id": 702,
+        "date_time": "2020-10-29 08:30:28",
+        "penjualan": "19136.16",
+        "pesanan": 19
+    },
+    {
+        "id": 703,
+        "date_time": "2020-08-03 17:04:44",
+        "penjualan": "29074.30",
+        "pesanan": 16
+    },
+    {
+        "id": 704,
+        "date_time": "2020-11-01 22:55:29",
+        "penjualan": "35834.73",
+        "pesanan": 17
+    },
+    {
+        "id": 705,
+        "date_time": "2020-11-11 10:18:22",
+        "penjualan": "68822.08",
+        "pesanan": 16
+    },
+    {
+        "id": 706,
+        "date_time": "2020-10-28 05:37:05",
+        "penjualan": "59827.45",
+        "pesanan": 13
+    },
+    {
+        "id": 707,
+        "date_time": "2020-11-24 18:46:28",
+        "penjualan": "46822.99",
+        "pesanan": 18
+    },
+    {
+        "id": 708,
+        "date_time": "2020-11-04 04:55:37",
+        "penjualan": "32676.23",
+        "pesanan": 10
+    },
+    {
+        "id": 709,
+        "date_time": "2020-08-23 02:29:22",
+        "penjualan": "30762.32",
+        "pesanan": 20
+    },
+    {
+        "id": 710,
+        "date_time": "2020-11-28 00:41:00",
+        "penjualan": "48155.74",
+        "pesanan": 15
+    },
+    {
+        "id": 711,
+        "date_time": "2020-08-30 02:40:29",
+        "penjualan": "14662.05",
+        "pesanan": 15
+    },
+    {
+        "id": 712,
+        "date_time": "2020-10-16 17:38:30",
+        "penjualan": "80540.96",
+        "pesanan": 10
+    },
+    {
+        "id": 713,
+        "date_time": "2020-11-23 08:13:33",
+        "penjualan": "36083.99",
+        "pesanan": 17
+    },
+    {
+        "id": 714,
+        "date_time": "2020-09-10 23:05:08",
+        "penjualan": "88147.48",
+        "pesanan": 18
+    },
+    {
+        "id": 715,
+        "date_time": "2020-11-17 22:16:56",
+        "penjualan": "11303.79",
+        "pesanan": 17
+    },
+    {
+        "id": 716,
+        "date_time": "2020-10-03 18:34:50",
+        "penjualan": "60436.34",
+        "pesanan": 13
+    },
+    {
+        "id": 717,
+        "date_time": "2020-10-10 11:59:59",
+        "penjualan": "94525.69",
+        "pesanan": 16
+    },
+    {
+        "id": 718,
+        "date_time": "2020-11-10 23:08:51",
+        "penjualan": "20962.53",
+        "pesanan": 15
+    },
+    {
+        "id": 719,
+        "date_time": "2020-09-17 18:27:18",
+        "penjualan": "67968.06",
+        "pesanan": 18
+    },
+    {
+        "id": 720,
+        "date_time": "2020-08-26 03:22:57",
+        "penjualan": "40614.65",
+        "pesanan": 19
+    },
+    {
+        "id": 721,
+        "date_time": "2020-09-18 13:46:38",
+        "penjualan": "15909.17",
+        "pesanan": 11
+    },
+    {
+        "id": 722,
+        "date_time": "2020-08-02 14:26:05",
+        "penjualan": "23193.56",
+        "pesanan": 18
+    },
+    {
+        "id": 723,
+        "date_time": "2020-08-08 23:03:18",
+        "penjualan": "72265.00",
+        "pesanan": 13
+    },
+    {
+        "id": 724,
+        "date_time": "2020-11-29 17:27:04",
+        "penjualan": "27352.31",
+        "pesanan": 17
+    },
+    {
+        "id": 725,
+        "date_time": "2020-10-23 13:11:48",
+        "penjualan": "87465.07",
+        "pesanan": 16
+    },
+    {
+        "id": 726,
+        "date_time": "2020-08-28 09:13:45",
+        "penjualan": "57751.19",
+        "pesanan": 20
+    },
+    {
+        "id": 727,
+        "date_time": "2020-09-09 01:40:56",
+        "penjualan": "47678.30",
+        "pesanan": 15
+    },
+    {
+        "id": 728,
+        "date_time": "2020-08-12 10:31:40",
+        "penjualan": "92535.82",
+        "pesanan": 13
+    },
+    {
+        "id": 729,
+        "date_time": "2020-09-28 02:06:53",
+        "penjualan": "33589.89",
+        "pesanan": 20
+    },
+    {
+        "id": 730,
+        "date_time": "2020-08-27 23:00:25",
+        "penjualan": "44372.07",
+        "pesanan": 15
+    },
+    {
+        "id": 731,
+        "date_time": "2020-09-13 01:33:18",
+        "penjualan": "61831.72",
+        "pesanan": 18
+    },
+    {
+        "id": 732,
+        "date_time": "2020-10-25 06:14:45",
+        "penjualan": "78971.84",
+        "pesanan": 17
+    },
+    {
+        "id": 733,
+        "date_time": "2020-11-15 08:25:20",
+        "penjualan": "78450.81",
+        "pesanan": 12
+    },
+    {
+        "id": 734,
+        "date_time": "2020-11-15 05:52:29",
+        "penjualan": "53694.01",
+        "pesanan": 18
+    },
+    {
+        "id": 735,
+        "date_time": "2020-10-14 23:22:44",
+        "penjualan": "46605.11",
+        "pesanan": 11
+    },
+    {
+        "id": 736,
+        "date_time": "2020-11-12 13:10:40",
+        "penjualan": "39765.87",
+        "pesanan": 20
+    },
+    {
+        "id": 737,
+        "date_time": "2020-11-17 16:04:45",
+        "penjualan": "73749.93",
+        "pesanan": 11
+    },
+    {
+        "id": 738,
+        "date_time": "2020-08-01 02:27:20",
+        "penjualan": "59665.06",
+        "pesanan": 13
+    },
+    {
+        "id": 739,
+        "date_time": "2020-09-20 20:30:28",
+        "penjualan": "89457.27",
+        "pesanan": 20
+    },
+    {
+        "id": 740,
+        "date_time": "2020-09-26 03:04:01",
+        "penjualan": "83336.19",
+        "pesanan": 11
+    },
+    {
+        "id": 741,
+        "date_time": "2020-08-10 01:37:10",
+        "penjualan": "38022.64",
+        "pesanan": 10
+    },
+    {
+        "id": 742,
+        "date_time": "2020-10-04 04:58:50",
+        "penjualan": "34270.73",
+        "pesanan": 12
+    },
+    {
+        "id": 743,
+        "date_time": "2020-10-03 07:02:06",
+        "penjualan": "60474.88",
+        "pesanan": 13
+    },
+    {
+        "id": 744,
+        "date_time": "2020-08-03 08:26:18",
+        "penjualan": "96327.14",
+        "pesanan": 10
+    },
+    {
+        "id": 745,
+        "date_time": "2020-08-28 09:55:29",
+        "penjualan": "27270.63",
+        "pesanan": 20
+    },
+    {
+        "id": 746,
+        "date_time": "2020-11-19 22:08:36",
+        "penjualan": "17622.94",
+        "pesanan": 10
+    },
+    {
+        "id": 747,
+        "date_time": "2020-11-17 13:07:51",
+        "penjualan": "97656.12",
+        "pesanan": 13
+    },
+    {
+        "id": 748,
+        "date_time": "2020-09-23 17:05:40",
+        "penjualan": "41627.99",
+        "pesanan": 12
+    },
+    {
+        "id": 749,
+        "date_time": "2020-10-21 23:33:24",
+        "penjualan": "89170.50",
+        "pesanan": 14
+    },
+    {
+        "id": 750,
+        "date_time": "2020-09-22 12:56:27",
+        "penjualan": "69986.86",
+        "pesanan": 20
+    },
+    {
+        "id": 751,
+        "date_time": "2020-10-06 11:48:28",
+        "penjualan": "34341.98",
+        "pesanan": 19
+    },
+    {
+        "id": 752,
+        "date_time": "2020-09-10 13:59:54",
+        "penjualan": "82488.38",
+        "pesanan": 14
+    },
+    {
+        "id": 753,
+        "date_time": "2020-09-26 16:32:11",
+        "penjualan": "40891.50",
+        "pesanan": 20
+    },
+    {
+        "id": 754,
+        "date_time": "2020-10-30 08:12:15",
+        "penjualan": "46434.37",
+        "pesanan": 17
+    },
+    {
+        "id": 755,
+        "date_time": "2020-11-16 08:15:49",
+        "penjualan": "19107.39",
+        "pesanan": 10
+    },
+    {
+        "id": 756,
+        "date_time": "2020-11-15 19:06:03",
+        "penjualan": "87584.32",
+        "pesanan": 20
+    },
+    {
+        "id": 757,
+        "date_time": "2020-08-03 17:28:18",
+        "penjualan": "75418.12",
+        "pesanan": 11
+    },
+    {
+        "id": 758,
+        "date_time": "2020-10-05 20:10:23",
+        "penjualan": "92427.55",
+        "pesanan": 10
+    },
+    {
+        "id": 759,
+        "date_time": "2020-09-03 00:28:55",
+        "penjualan": "70523.76",
+        "pesanan": 18
+    },
+    {
+        "id": 760,
+        "date_time": "2020-10-21 13:56:33",
+        "penjualan": "70551.69",
+        "pesanan": 13
+    },
+    {
+        "id": 761,
+        "date_time": "2020-11-29 10:59:09",
+        "penjualan": "55173.09",
+        "pesanan": 15
+    },
+    {
+        "id": 762,
+        "date_time": "2020-11-23 17:58:07",
+        "penjualan": "99835.02",
+        "pesanan": 17
+    },
+    {
+        "id": 763,
+        "date_time": "2020-08-13 00:09:31",
+        "penjualan": "88336.16",
+        "pesanan": 20
+    },
+    {
+        "id": 764,
+        "date_time": "2020-09-07 21:26:26",
+        "penjualan": "55438.31",
+        "pesanan": 18
+    },
+    {
+        "id": 765,
+        "date_time": "2020-10-10 19:28:24",
+        "penjualan": "39012.97",
+        "pesanan": 18
+    },
+    {
+        "id": 766,
+        "date_time": "2020-11-22 19:35:31",
+        "penjualan": "13513.78",
+        "pesanan": 18
+    },
+    {
+        "id": 767,
+        "date_time": "2020-11-16 17:51:08",
+        "penjualan": "63205.56",
+        "pesanan": 18
+    },
+    {
+        "id": 768,
+        "date_time": "2020-10-09 11:53:37",
+        "penjualan": "49901.98",
+        "pesanan": 18
+    },
+    {
+        "id": 769,
+        "date_time": "2020-08-20 22:30:30",
+        "penjualan": "31814.63",
+        "pesanan": 18
+    },
+    {
+        "id": 770,
+        "date_time": "2020-10-21 12:25:33",
+        "penjualan": "50245.69",
+        "pesanan": 17
+    },
+    {
+        "id": 771,
+        "date_time": "2020-11-28 17:20:18",
+        "penjualan": "17567.11",
+        "pesanan": 20
+    },
+    {
+        "id": 772,
+        "date_time": "2020-08-04 23:45:09",
+        "penjualan": "63157.83",
+        "pesanan": 19
+    },
+    {
+        "id": 773,
+        "date_time": "2020-08-31 23:21:23",
+        "penjualan": "71281.24",
+        "pesanan": 11
+    },
+    {
+        "id": 774,
+        "date_time": "2020-08-04 02:52:22",
+        "penjualan": "17834.23",
+        "pesanan": 19
+    },
+    {
+        "id": 775,
+        "date_time": "2020-08-22 12:16:51",
+        "penjualan": "52991.67",
+        "pesanan": 13
+    },
+    {
+        "id": 776,
+        "date_time": "2020-10-20 14:00:01",
+        "penjualan": "54758.12",
+        "pesanan": 14
+    },
+    {
+        "id": 777,
+        "date_time": "2020-11-27 18:38:36",
+        "penjualan": "99970.72",
+        "pesanan": 12
+    },
+    {
+        "id": 778,
+        "date_time": "2020-09-04 05:01:04",
+        "penjualan": "20384.04",
+        "pesanan": 17
+    },
+    {
+        "id": 779,
+        "date_time": "2020-08-14 07:48:34",
+        "penjualan": "39758.75",
+        "pesanan": 14
+    },
+    {
+        "id": 780,
+        "date_time": "2020-10-02 09:27:59",
+        "penjualan": "81221.44",
+        "pesanan": 16
+    },
+    {
+        "id": 781,
+        "date_time": "2020-09-06 21:05:08",
+        "penjualan": "54242.95",
+        "pesanan": 11
+    },
+    {
+        "id": 782,
+        "date_time": "2020-10-20 15:38:17",
+        "penjualan": "32630.93",
+        "pesanan": 14
+    },
+    {
+        "id": 783,
+        "date_time": "2020-09-13 01:15:29",
+        "penjualan": "20813.35",
+        "pesanan": 18
+    },
+    {
+        "id": 784,
+        "date_time": "2020-11-13 04:49:04",
+        "penjualan": "23827.62",
+        "pesanan": 20
+    },
+    {
+        "id": 785,
+        "date_time": "2020-10-20 06:27:27",
+        "penjualan": "44128.01",
+        "pesanan": 12
+    },
+    {
+        "id": 786,
+        "date_time": "2020-11-18 13:29:46",
+        "penjualan": "35982.40",
+        "pesanan": 14
+    },
+    {
+        "id": 787,
+        "date_time": "2020-08-08 05:39:33",
+        "penjualan": "46104.31",
+        "pesanan": 11
+    },
+    {
+        "id": 788,
+        "date_time": "2020-08-19 12:54:48",
+        "penjualan": "43154.21",
+        "pesanan": 10
+    },
+    {
+        "id": 789,
+        "date_time": "2020-10-11 17:38:37",
+        "penjualan": "83639.92",
+        "pesanan": 18
+    },
+    {
+        "id": 790,
+        "date_time": "2020-10-16 11:50:45",
+        "penjualan": "30414.22",
+        "pesanan": 17
+    },
+    {
+        "id": 791,
+        "date_time": "2020-11-24 04:45:01",
+        "penjualan": "94483.56",
+        "pesanan": 18
+    },
+    {
+        "id": 792,
+        "date_time": "2020-09-08 09:49:22",
+        "penjualan": "52631.79",
+        "pesanan": 18
+    },
+    {
+        "id": 793,
+        "date_time": "2020-09-13 19:42:07",
+        "penjualan": "15559.12",
+        "pesanan": 17
+    },
+    {
+        "id": 794,
+        "date_time": "2020-08-17 10:19:58",
+        "penjualan": "26893.33",
+        "pesanan": 11
+    },
+    {
+        "id": 795,
+        "date_time": "2020-10-27 03:53:28",
+        "penjualan": "76744.11",
+        "pesanan": 19
+    },
+    {
+        "id": 796,
+        "date_time": "2020-10-19 04:35:41",
+        "penjualan": "87529.46",
+        "pesanan": 13
+    },
+    {
+        "id": 797,
+        "date_time": "2020-11-03 09:33:42",
+        "penjualan": "58157.67",
+        "pesanan": 16
+    },
+    {
+        "id": 798,
+        "date_time": "2020-08-28 15:41:11",
+        "penjualan": "99319.74",
+        "pesanan": 16
+    },
+    {
+        "id": 799,
+        "date_time": "2020-10-10 08:46:13",
+        "penjualan": "68727.37",
+        "pesanan": 20
+    },
+    {
+        "id": 800,
+        "date_time": "2020-08-06 19:12:37",
+        "penjualan": "36328.20",
+        "pesanan": 11
+    },
+    {
+        "id": 801,
+        "date_time": "2020-11-09 06:21:36",
+        "penjualan": "85581.06",
+        "pesanan": 13
+    },
+    {
+        "id": 802,
+        "date_time": "2020-08-15 02:53:22",
+        "penjualan": "49409.71",
+        "pesanan": 11
+    },
+    {
+        "id": 803,
+        "date_time": "2020-10-12 07:40:59",
+        "penjualan": "53211.51",
+        "pesanan": 11
+    },
+    {
+        "id": 804,
+        "date_time": "2020-10-25 10:47:53",
+        "penjualan": "50063.78",
+        "pesanan": 17
+    },
+    {
+        "id": 805,
+        "date_time": "2020-09-12 20:24:08",
+        "penjualan": "67940.13",
+        "pesanan": 17
+    },
+    {
+        "id": 806,
+        "date_time": "2020-09-27 10:55:51",
+        "penjualan": "32403.14",
+        "pesanan": 16
+    },
+    {
+        "id": 807,
+        "date_time": "2020-08-14 12:49:49",
+        "penjualan": "12517.15",
+        "pesanan": 14
+    },
+    {
+        "id": 808,
+        "date_time": "2020-10-17 22:28:24",
+        "penjualan": "31071.96",
+        "pesanan": 10
+    },
+    {
+        "id": 809,
+        "date_time": "2020-10-12 18:23:09",
+        "penjualan": "26068.78",
+        "pesanan": 15
+    },
+    {
+        "id": 810,
+        "date_time": "2020-09-07 05:51:02",
+        "penjualan": "78260.95",
+        "pesanan": 16
+    },
+    {
+        "id": 811,
+        "date_time": "2020-09-21 22:01:53",
+        "penjualan": "47010.82",
+        "pesanan": 10
+    },
+    {
+        "id": 812,
+        "date_time": "2020-09-28 00:51:08",
+        "penjualan": "69033.41",
+        "pesanan": 20
+    },
+    {
+        "id": 813,
+        "date_time": "2020-09-30 17:46:39",
+        "penjualan": "93867.02",
+        "pesanan": 12
+    },
+    {
+        "id": 814,
+        "date_time": "2020-11-01 01:57:32",
+        "penjualan": "64986.30",
+        "pesanan": 13
+    },
+    {
+        "id": 815,
+        "date_time": "2020-11-23 17:35:41",
+        "penjualan": "67511.67",
+        "pesanan": 13
+    },
+    {
+        "id": 816,
+        "date_time": "2020-11-02 04:30:04",
+        "penjualan": "90459.75",
+        "pesanan": 14
+    },
+    {
+        "id": 817,
+        "date_time": "2020-08-11 15:48:48",
+        "penjualan": "83178.17",
+        "pesanan": 13
+    },
+    {
+        "id": 818,
+        "date_time": "2020-08-11 04:34:11",
+        "penjualan": "88904.68",
+        "pesanan": 10
+    },
+    {
+        "id": 819,
+        "date_time": "2020-09-18 03:16:26",
+        "penjualan": "37776.95",
+        "pesanan": 11
+    },
+    {
+        "id": 820,
+        "date_time": "2020-08-11 20:49:17",
+        "penjualan": "14380.73",
+        "pesanan": 19
+    },
+    {
+        "id": 821,
+        "date_time": "2020-09-25 01:41:22",
+        "penjualan": "57130.08",
+        "pesanan": 19
+    },
+    {
+        "id": 822,
+        "date_time": "2020-08-20 03:20:30",
+        "penjualan": "65921.32",
+        "pesanan": 13
+    },
+    {
+        "id": 823,
+        "date_time": "2020-09-06 11:45:41",
+        "penjualan": "66599.85",
+        "pesanan": 15
+    },
+    {
+        "id": 824,
+        "date_time": "2020-09-27 12:07:38",
+        "penjualan": "73537.50",
+        "pesanan": 18
+    },
+    {
+        "id": 825,
+        "date_time": "2020-11-12 01:00:31",
+        "penjualan": "70242.77",
+        "pesanan": 16
+    },
+    {
+        "id": 826,
+        "date_time": "2020-10-16 10:05:50",
+        "penjualan": "36944.62",
+        "pesanan": 14
+    },
+    {
+        "id": 827,
+        "date_time": "2020-09-24 03:45:19",
+        "penjualan": "17200.39",
+        "pesanan": 15
+    },
+    {
+        "id": 828,
+        "date_time": "2020-09-08 00:33:38",
+        "penjualan": "33542.08",
+        "pesanan": 18
+    },
+    {
+        "id": 829,
+        "date_time": "2020-09-25 22:34:17",
+        "penjualan": "62875.54",
+        "pesanan": 17
+    },
+    {
+        "id": 830,
+        "date_time": "2020-10-23 19:25:55",
+        "penjualan": "55519.78",
+        "pesanan": 20
+    },
+    {
+        "id": 831,
+        "date_time": "2020-10-02 19:41:16",
+        "penjualan": "71065.36",
+        "pesanan": 16
+    },
+    {
+        "id": 832,
+        "date_time": "2020-10-23 10:58:58",
+        "penjualan": "18852.70",
+        "pesanan": 12
+    },
+    {
+        "id": 833,
+        "date_time": "2020-09-29 00:28:01",
+        "penjualan": "18362.07",
+        "pesanan": 10
+    },
+    {
+        "id": 834,
+        "date_time": "2020-08-07 21:11:40",
+        "penjualan": "57700.92",
+        "pesanan": 18
+    },
+    {
+        "id": 835,
+        "date_time": "2020-11-22 06:19:03",
+        "penjualan": "27486.74",
+        "pesanan": 13
+    },
+    {
+        "id": 836,
+        "date_time": "2020-09-26 02:21:35",
+        "penjualan": "17518.14",
+        "pesanan": 13
+    },
+    {
+        "id": 837,
+        "date_time": "2020-11-12 19:57:57",
+        "penjualan": "71664.57",
+        "pesanan": 17
+    },
+    {
+        "id": 838,
+        "date_time": "2020-09-18 07:05:17",
+        "penjualan": "55183.08",
+        "pesanan": 20
+    },
+    {
+        "id": 839,
+        "date_time": "2020-11-15 05:38:43",
+        "penjualan": "38878.08",
+        "pesanan": 16
+    },
+    {
+        "id": 840,
+        "date_time": "2020-08-07 05:52:55",
+        "penjualan": "91031.89",
+        "pesanan": 16
+    },
+    {
+        "id": 841,
+        "date_time": "2020-09-05 17:41:25",
+        "penjualan": "74006.20",
+        "pesanan": 10
+    },
+    {
+        "id": 842,
+        "date_time": "2020-11-03 08:17:23",
+        "penjualan": "27404.20",
+        "pesanan": 10
+    },
+    {
+        "id": 843,
+        "date_time": "2020-09-21 22:22:38",
+        "penjualan": "15032.32",
+        "pesanan": 20
+    },
+    {
+        "id": 844,
+        "date_time": "2020-09-27 10:29:20",
+        "penjualan": "12285.69",
+        "pesanan": 15
+    },
+    {
+        "id": 845,
+        "date_time": "2020-10-08 06:47:55",
+        "penjualan": "45532.11",
+        "pesanan": 14
+    },
+    {
+        "id": 846,
+        "date_time": "2020-10-10 06:32:37",
+        "penjualan": "69299.95",
+        "pesanan": 14
+    },
+    {
+        "id": 847,
+        "date_time": "2020-09-19 00:37:25",
+        "penjualan": "25159.19",
+        "pesanan": 19
+    },
+    {
+        "id": 848,
+        "date_time": "2020-08-22 17:29:16",
+        "penjualan": "85616.97",
+        "pesanan": 13
+    },
+    {
+        "id": 849,
+        "date_time": "2020-10-07 13:45:23",
+        "penjualan": "71693.05",
+        "pesanan": 18
+    },
+    {
+        "id": 850,
+        "date_time": "2020-10-13 10:30:16",
+        "penjualan": "77582.33",
+        "pesanan": 11
+    },
+    {
+        "id": 851,
+        "date_time": "2020-09-14 12:21:57",
+        "penjualan": "40435.80",
+        "pesanan": 17
+    },
+    {
+        "id": 852,
+        "date_time": "2020-11-06 17:32:49",
+        "penjualan": "41586.96",
+        "pesanan": 14
+    },
+    {
+        "id": 853,
+        "date_time": "2020-09-21 11:56:06",
+        "penjualan": "34514.26",
+        "pesanan": 16
+    },
+    {
+        "id": 854,
+        "date_time": "2020-09-17 03:34:00",
+        "penjualan": "68044.90",
+        "pesanan": 13
+    },
+    {
+        "id": 855,
+        "date_time": "2020-11-20 15:22:15",
+        "penjualan": "94419.72",
+        "pesanan": 11
+    },
+    {
+        "id": 856,
+        "date_time": "2020-11-19 23:11:16",
+        "penjualan": "41402.37",
+        "pesanan": 15
+    },
+    {
+        "id": 857,
+        "date_time": "2020-09-04 23:33:26",
+        "penjualan": "55326.63",
+        "pesanan": 17
+    },
+    {
+        "id": 858,
+        "date_time": "2020-08-16 10:01:49",
+        "penjualan": "28331.88",
+        "pesanan": 13
+    },
+    {
+        "id": 859,
+        "date_time": "2020-11-18 08:41:42",
+        "penjualan": "97138.89",
+        "pesanan": 15
+    },
+    {
+        "id": 860,
+        "date_time": "2020-10-25 09:48:10",
+        "penjualan": "26373.39",
+        "pesanan": 15
+    },
+    {
+        "id": 861,
+        "date_time": "2020-10-24 20:07:10",
+        "penjualan": "63917.14",
+        "pesanan": 16
+    },
+    {
+        "id": 862,
+        "date_time": "2020-09-16 17:37:09",
+        "penjualan": "13782.37",
+        "pesanan": 17
+    },
+    {
+        "id": 863,
+        "date_time": "2020-10-17 06:02:38",
+        "penjualan": "95798.47",
+        "pesanan": 12
+    },
+    {
+        "id": 864,
+        "date_time": "2020-09-08 14:49:35",
+        "penjualan": "75207.90",
+        "pesanan": 16
+    },
+    {
+        "id": 865,
+        "date_time": "2020-08-20 06:23:23",
+        "penjualan": "24143.00",
+        "pesanan": 16
+    },
+    {
+        "id": 866,
+        "date_time": "2020-08-24 14:23:46",
+        "penjualan": "79396.73",
+        "pesanan": 10
+    },
+    {
+        "id": 867,
+        "date_time": "2020-09-25 11:10:37",
+        "penjualan": "62863.46",
+        "pesanan": 13
+    },
+    {
+        "id": 868,
+        "date_time": "2020-08-06 06:37:10",
+        "penjualan": "57324.12",
+        "pesanan": 16
+    },
+    {
+        "id": 869,
+        "date_time": "2020-08-02 13:14:04",
+        "penjualan": "29763.63",
+        "pesanan": 18
+    },
+    {
+        "id": 870,
+        "date_time": "2020-10-08 03:39:45",
+        "penjualan": "92937.69",
+        "pesanan": 11
+    },
+    {
+        "id": 871,
+        "date_time": "2020-09-28 20:28:46",
+        "penjualan": "15440.65",
+        "pesanan": 11
+    },
+    {
+        "id": 872,
+        "date_time": "2020-11-16 07:29:40",
+        "penjualan": "96094.76",
+        "pesanan": 12
+    },
+    {
+        "id": 873,
+        "date_time": "2020-11-12 23:16:33",
+        "penjualan": "46356.70",
+        "pesanan": 17
+    },
+    {
+        "id": 874,
+        "date_time": "2020-11-25 15:47:35",
+        "penjualan": "77705.86",
+        "pesanan": 11
+    },
+    {
+        "id": 875,
+        "date_time": "2020-08-13 10:13:04",
+        "penjualan": "66387.65",
+        "pesanan": 10
+    },
+    {
+        "id": 876,
+        "date_time": "2020-09-26 15:07:40",
+        "penjualan": "92809.76",
+        "pesanan": 19
+    },
+    {
+        "id": 877,
+        "date_time": "2020-09-24 21:06:49",
+        "penjualan": "89705.63",
+        "pesanan": 17
+    },
+    {
+        "id": 878,
+        "date_time": "2020-11-08 22:40:52",
+        "penjualan": "87608.00",
+        "pesanan": 12
+    },
+    {
+        "id": 879,
+        "date_time": "2020-11-01 21:18:32",
+        "penjualan": "11773.26",
+        "pesanan": 12
+    },
+    {
+        "id": 880,
+        "date_time": "2020-09-23 09:48:49",
+        "penjualan": "18472.72",
+        "pesanan": 13
+    },
+    {
+        "id": 881,
+        "date_time": "2020-08-24 08:59:40",
+        "penjualan": "97733.48",
+        "pesanan": 20
+    },
+    {
+        "id": 882,
+        "date_time": "2020-11-13 18:15:26",
+        "penjualan": "33782.08",
+        "pesanan": 20
+    },
+    {
+        "id": 883,
+        "date_time": "2020-11-28 18:36:36",
+        "penjualan": "10885.63",
+        "pesanan": 10
+    },
+    {
+        "id": 884,
+        "date_time": "2020-09-02 04:02:17",
+        "penjualan": "52080.62",
+        "pesanan": 10
+    },
+    {
+        "id": 885,
+        "date_time": "2020-08-28 13:48:38",
+        "penjualan": "96144.26",
+        "pesanan": 11
+    },
+    {
+        "id": 886,
+        "date_time": "2020-09-08 02:05:18",
+        "penjualan": "64961.39",
+        "pesanan": 12
+    },
+    {
+        "id": 887,
+        "date_time": "2020-10-03 23:20:34",
+        "penjualan": "60535.36",
+        "pesanan": 14
+    },
+    {
+        "id": 888,
+        "date_time": "2020-11-01 18:01:41",
+        "penjualan": "29277.68",
+        "pesanan": 14
+    },
+    {
+        "id": 889,
+        "date_time": "2020-10-24 18:43:33",
+        "penjualan": "70237.55",
+        "pesanan": 19
+    },
+    {
+        "id": 890,
+        "date_time": "2020-11-05 11:10:11",
+        "penjualan": "37383.24",
+        "pesanan": 12
+    },
+    {
+        "id": 891,
+        "date_time": "2020-11-21 00:48:58",
+        "penjualan": "15518.75",
+        "pesanan": 11
+    },
+    {
+        "id": 892,
+        "date_time": "2020-11-09 13:04:10",
+        "penjualan": "78558.61",
+        "pesanan": 10
+    },
+    {
+        "id": 893,
+        "date_time": "2020-11-18 14:41:08",
+        "penjualan": "72748.55",
+        "pesanan": 15
+    },
+    {
+        "id": 894,
+        "date_time": "2020-08-09 04:05:28",
+        "penjualan": "44033.07",
+        "pesanan": 17
+    },
+    {
+        "id": 895,
+        "date_time": "2020-10-17 18:17:13",
+        "penjualan": "16933.51",
+        "pesanan": 17
+    },
+    {
+        "id": 896,
+        "date_time": "2020-08-29 16:50:18",
+        "penjualan": "36334.49",
+        "pesanan": 14
+    },
+    {
+        "id": 897,
+        "date_time": "2020-10-05 10:28:16",
+        "penjualan": "99527.51",
+        "pesanan": 19
+    },
+    {
+        "id": 898,
+        "date_time": "2020-11-12 08:36:40",
+        "penjualan": "54270.10",
+        "pesanan": 16
+    },
+    {
+        "id": 899,
+        "date_time": "2020-10-28 06:38:46",
+        "penjualan": "22480.80",
+        "pesanan": 11
+    },
+    {
+        "id": 900,
+        "date_time": "2020-09-29 14:26:45",
+        "penjualan": "42778.26",
+        "pesanan": 11
+    },
+    {
+        "id": 901,
+        "date_time": "2020-08-07 19:18:48",
+        "penjualan": "84302.37",
+        "pesanan": 20
+    },
+    {
+        "id": 902,
+        "date_time": "2020-08-31 17:55:30",
+        "penjualan": "35888.91",
+        "pesanan": 14
+    },
+    {
+        "id": 903,
+        "date_time": "2020-09-07 22:15:15",
+        "penjualan": "62610.39",
+        "pesanan": 20
+    },
+    {
+        "id": 904,
+        "date_time": "2020-09-03 17:47:40",
+        "penjualan": "70392.09",
+        "pesanan": 12
+    },
+    {
+        "id": 905,
+        "date_time": "2020-11-08 14:37:25",
+        "penjualan": "75811.36",
+        "pesanan": 16
+    },
+    {
+        "id": 906,
+        "date_time": "2020-11-01 10:27:46",
+        "penjualan": "90701.35",
+        "pesanan": 11
+    },
+    {
+        "id": 907,
+        "date_time": "2020-10-20 15:14:06",
+        "penjualan": "79715.14",
+        "pesanan": 18
+    },
+    {
+        "id": 908,
+        "date_time": "2020-09-12 12:14:37",
+        "penjualan": "43477.67",
+        "pesanan": 10
+    },
+    {
+        "id": 909,
+        "date_time": "2020-10-12 11:12:57",
+        "penjualan": "92958.42",
+        "pesanan": 12
+    },
+    {
+        "id": 910,
+        "date_time": "2020-08-05 00:08:13",
+        "penjualan": "71822.68",
+        "pesanan": 18
+    },
+    {
+        "id": 911,
+        "date_time": "2020-08-25 05:08:20",
+        "penjualan": "36926.14",
+        "pesanan": 19
+    },
+    {
+        "id": 912,
+        "date_time": "2020-08-12 11:10:25",
+        "penjualan": "84012.70",
+        "pesanan": 12
+    },
+    {
+        "id": 913,
+        "date_time": "2020-09-29 08:05:33",
+        "penjualan": "24783.24",
+        "pesanan": 19
+    },
+    {
+        "id": 914,
+        "date_time": "2020-08-20 20:15:44",
+        "penjualan": "26018.68",
+        "pesanan": 20
+    },
+    {
+        "id": 915,
+        "date_time": "2020-10-26 23:14:12",
+        "penjualan": "94839.73",
+        "pesanan": 11
+    },
+    {
+        "id": 916,
+        "date_time": "2020-08-07 05:45:55",
+        "penjualan": "18868.87",
+        "pesanan": 11
+    },
+    {
+        "id": 917,
+        "date_time": "2020-11-11 00:40:15",
+        "penjualan": "21581.03",
+        "pesanan": 13
+    },
+    {
+        "id": 918,
+        "date_time": "2020-08-15 07:32:40",
+        "penjualan": "53771.72",
+        "pesanan": 14
+    },
+    {
+        "id": 919,
+        "date_time": "2020-09-27 17:41:07",
+        "penjualan": "65895.94",
+        "pesanan": 19
+    },
+    {
+        "id": 920,
+        "date_time": "2020-08-25 12:42:46",
+        "penjualan": "59246.20",
+        "pesanan": 11
+    },
+    {
+        "id": 921,
+        "date_time": "2020-09-30 13:29:59",
+        "penjualan": "93310.72",
+        "pesanan": 10
+    },
+    {
+        "id": 922,
+        "date_time": "2020-11-13 17:13:06",
+        "penjualan": "87613.80",
+        "pesanan": 17
+    },
+    {
+        "id": 923,
+        "date_time": "2020-09-18 13:48:56",
+        "penjualan": "10205.82",
+        "pesanan": 20
+    },
+    {
+        "id": 924,
+        "date_time": "2020-09-18 19:58:45",
+        "penjualan": "13369.99",
+        "pesanan": 12
+    },
+    {
+        "id": 925,
+        "date_time": "2020-08-05 23:46:06",
+        "penjualan": "26012.29",
+        "pesanan": 18
+    },
+    {
+        "id": 926,
+        "date_time": "2020-11-21 06:36:33",
+        "penjualan": "77577.56",
+        "pesanan": 17
+    },
+    {
+        "id": 927,
+        "date_time": "2020-11-02 03:06:05",
+        "penjualan": "27288.34",
+        "pesanan": 18
+    },
+    {
+        "id": 928,
+        "date_time": "2020-11-03 12:08:34",
+        "penjualan": "27142.17",
+        "pesanan": 12
+    },
+    {
+        "id": 929,
+        "date_time": "2020-09-02 23:14:05",
+        "penjualan": "73022.11",
+        "pesanan": 16
+    },
+    {
+        "id": 930,
+        "date_time": "2020-09-12 06:10:44",
+        "penjualan": "80727.55",
+        "pesanan": 11
+    },
+    {
+        "id": 931,
+        "date_time": "2020-09-17 02:57:06",
+        "penjualan": "20647.00",
+        "pesanan": 13
+    },
+    {
+        "id": 932,
+        "date_time": "2020-11-13 20:13:25",
+        "penjualan": "87344.03",
+        "pesanan": 18
+    },
+    {
+        "id": 933,
+        "date_time": "2020-08-19 12:39:20",
+        "penjualan": "23053.18",
+        "pesanan": 16
+    },
+    {
+        "id": 934,
+        "date_time": "2020-11-13 07:23:43",
+        "penjualan": "19252.13",
+        "pesanan": 14
+    },
+    {
+        "id": 935,
+        "date_time": "2020-11-18 07:42:02",
+        "penjualan": "34077.70",
+        "pesanan": 13
+    },
+    {
+        "id": 936,
+        "date_time": "2020-11-11 11:14:33",
+        "penjualan": "54629.34",
+        "pesanan": 11
+    },
+    {
+        "id": 937,
+        "date_time": "2020-10-19 17:28:25",
+        "penjualan": "11330.32",
+        "pesanan": 12
+    },
+    {
+        "id": 938,
+        "date_time": "2020-11-16 11:34:28",
+        "penjualan": "87343.27",
+        "pesanan": 20
+    },
+    {
+        "id": 939,
+        "date_time": "2020-11-07 17:13:59",
+        "penjualan": "89469.79",
+        "pesanan": 12
+    },
+    {
+        "id": 940,
+        "date_time": "2020-10-30 14:15:37",
+        "penjualan": "63964.53",
+        "pesanan": 13
+    },
+    {
+        "id": 941,
+        "date_time": "2020-08-04 16:24:57",
+        "penjualan": "48004.43",
+        "pesanan": 20
+    },
+    {
+        "id": 942,
+        "date_time": "2020-11-06 14:24:19",
+        "penjualan": "10441.97",
+        "pesanan": 16
+    },
+    {
+        "id": 943,
+        "date_time": "2020-08-25 03:57:36",
+        "penjualan": "47802.90",
+        "pesanan": 10
+    },
+    {
+        "id": 944,
+        "date_time": "2020-09-06 08:23:18",
+        "penjualan": "34175.52",
+        "pesanan": 19
+    },
+    {
+        "id": 945,
+        "date_time": "2020-10-11 16:23:28",
+        "penjualan": "34893.27",
+        "pesanan": 19
+    },
+    {
+        "id": 946,
+        "date_time": "2020-08-12 05:28:41",
+        "penjualan": "61404.36",
+        "pesanan": 11
+    },
+    {
+        "id": 947,
+        "date_time": "2020-11-02 11:14:43",
+        "penjualan": "30154.47",
+        "pesanan": 19
+    },
+    {
+        "id": 948,
+        "date_time": "2020-09-29 01:49:59",
+        "penjualan": "68554.49",
+        "pesanan": 16
+    },
+    {
+        "id": 949,
+        "date_time": "2020-09-05 20:45:50",
+        "penjualan": "64859.72",
+        "pesanan": 16
+    },
+    {
+        "id": 950,
+        "date_time": "2020-11-18 12:51:01",
+        "penjualan": "88081.69",
+        "pesanan": 17
+    },
+    {
+        "id": 951,
+        "date_time": "2020-09-18 12:56:00",
+        "penjualan": "67352.82",
+        "pesanan": 16
+    },
+    {
+        "id": 952,
+        "date_time": "2020-09-14 23:29:31",
+        "penjualan": "23961.53",
+        "pesanan": 12
+    },
+    {
+        "id": 953,
+        "date_time": "2020-09-27 23:48:53",
+        "penjualan": "86152.76",
+        "pesanan": 17
+    },
+    {
+        "id": 954,
+        "date_time": "2020-08-03 03:48:44",
+        "penjualan": "30560.86",
+        "pesanan": 18
+    },
+    {
+        "id": 955,
+        "date_time": "2020-08-28 07:13:54",
+        "penjualan": "28184.49",
+        "pesanan": 12
+    },
+    {
+        "id": 956,
+        "date_time": "2020-09-19 14:07:24",
+        "penjualan": "60566.77",
+        "pesanan": 20
+    },
+    {
+        "id": 957,
+        "date_time": "2020-10-12 02:43:05",
+        "penjualan": "79432.67",
+        "pesanan": 17
+    },
+    {
+        "id": 958,
+        "date_time": "2020-11-09 20:34:13",
+        "penjualan": "37882.91",
+        "pesanan": 17
+    },
+    {
+        "id": 959,
+        "date_time": "2020-11-23 07:58:18",
+        "penjualan": "63651.81",
+        "pesanan": 10
+    },
+    {
+        "id": 960,
+        "date_time": "2020-09-21 14:50:25",
+        "penjualan": "47619.44",
+        "pesanan": 19
+    },
+    {
+        "id": 961,
+        "date_time": "2020-08-04 21:06:25",
+        "penjualan": "94249.00",
+        "pesanan": 16
+    },
+    {
+        "id": 962,
+        "date_time": "2020-10-12 01:00:18",
+        "penjualan": "83110.68",
+        "pesanan": 20
+    },
+    {
+        "id": 963,
+        "date_time": "2020-11-20 16:18:52",
+        "penjualan": "43387.85",
+        "pesanan": 12
+    },
+    {
+        "id": 964,
+        "date_time": "2020-08-17 22:39:56",
+        "penjualan": "79927.66",
+        "pesanan": 16
+    },
+    {
+        "id": 965,
+        "date_time": "2020-10-08 05:24:07",
+        "penjualan": "52583.25",
+        "pesanan": 17
+    },
+    {
+        "id": 966,
+        "date_time": "2020-09-21 21:59:01",
+        "penjualan": "10371.88",
+        "pesanan": 10
+    },
+    {
+        "id": 967,
+        "date_time": "2020-11-27 15:19:55",
+        "penjualan": "66300.62",
+        "pesanan": 15
+    },
+    {
+        "id": 968,
+        "date_time": "2020-08-30 12:37:42",
+        "penjualan": "16406.89",
+        "pesanan": 19
+    },
+    {
+        "id": 969,
+        "date_time": "2020-11-24 05:40:13",
+        "penjualan": "31914.00",
+        "pesanan": 11
+    },
+    {
+        "id": 970,
+        "date_time": "2020-11-15 07:04:21",
+        "penjualan": "81550.59",
+        "pesanan": 20
+    },
+    {
+        "id": 971,
+        "date_time": "2020-11-26 15:18:25",
+        "penjualan": "68470.98",
+        "pesanan": 13
+    },
+    {
+        "id": 972,
+        "date_time": "2020-09-13 07:22:18",
+        "penjualan": "50072.80",
+        "pesanan": 18
+    },
+    {
+        "id": 973,
+        "date_time": "2020-08-10 23:00:21",
+        "penjualan": "20987.90",
+        "pesanan": 18
+    },
+    {
+        "id": 974,
+        "date_time": "2020-09-13 16:14:48",
+        "penjualan": "34007.04",
+        "pesanan": 17
+    },
+    {
+        "id": 975,
+        "date_time": "2020-09-09 01:48:33",
+        "penjualan": "48177.98",
+        "pesanan": 19
+    },
+    {
+        "id": 976,
+        "date_time": "2020-10-07 12:38:58",
+        "penjualan": "40140.87",
+        "pesanan": 14
+    },
+    {
+        "id": 977,
+        "date_time": "2020-08-21 01:19:06",
+        "penjualan": "60815.86",
+        "pesanan": 15
+    },
+    {
+        "id": 978,
+        "date_time": "2020-11-24 19:16:26",
+        "penjualan": "56229.20",
+        "pesanan": 10
+    },
+    {
+        "id": 979,
+        "date_time": "2020-08-07 19:10:18",
+        "penjualan": "17638.35",
+        "pesanan": 17
+    },
+    {
+        "id": 980,
+        "date_time": "2020-08-28 19:36:01",
+        "penjualan": "14842.02",
+        "pesanan": 13
+    },
+    {
+        "id": 981,
+        "date_time": "2020-08-04 17:38:33",
+        "penjualan": "66405.53",
+        "pesanan": 17
+    },
+    {
+        "id": 982,
+        "date_time": "2020-09-08 09:40:02",
+        "penjualan": "47604.75",
+        "pesanan": 13
+    },
+    {
+        "id": 983,
+        "date_time": "2020-10-10 12:24:46",
+        "penjualan": "47353.79",
+        "pesanan": 13
+    },
+    {
+        "id": 984,
+        "date_time": "2020-09-28 04:03:12",
+        "penjualan": "54747.08",
+        "pesanan": 10
+    },
+    {
+        "id": 985,
+        "date_time": "2020-10-22 15:45:09",
+        "penjualan": "84342.41",
+        "pesanan": 15
+    },
+    {
+        "id": 986,
+        "date_time": "2020-10-24 03:30:52",
+        "penjualan": "26273.50",
+        "pesanan": 11
+    },
+    {
+        "id": 987,
+        "date_time": "2020-11-01 05:31:17",
+        "penjualan": "39865.40",
+        "pesanan": 18
+    },
+    {
+        "id": 988,
+        "date_time": "2020-08-06 18:01:20",
+        "penjualan": "88948.64",
+        "pesanan": 16
+    },
+    {
+        "id": 989,
+        "date_time": "2020-09-22 04:21:23",
+        "penjualan": "24930.45",
+        "pesanan": 20
+    },
+    {
+        "id": 990,
+        "date_time": "2020-09-22 05:59:56",
+        "penjualan": "22607.87",
+        "pesanan": 18
+    },
+    {
+        "id": 991,
+        "date_time": "2020-10-19 16:52:40",
+        "penjualan": "86378.61",
+        "pesanan": 14
+    },
+    {
+        "id": 992,
+        "date_time": "2020-09-03 20:46:41",
+        "penjualan": "54503.02",
+        "pesanan": 12
+    },
+    {
+        "id": 993,
+        "date_time": "2020-08-03 20:39:04",
+        "penjualan": "53696.71",
+        "pesanan": 12
+    },
+    {
+        "id": 994,
+        "date_time": "2020-10-22 00:37:17",
+        "penjualan": "52383.91",
+        "pesanan": 16
+    },
+    {
+        "id": 995,
+        "date_time": "2020-11-07 11:15:04",
+        "penjualan": "47695.90",
+        "pesanan": 18
+    },
+    {
+        "id": 996,
+        "date_time": "2020-09-05 15:23:59",
+        "penjualan": "50675.05",
+        "pesanan": 13
+    },
+    {
+        "id": 997,
+        "date_time": "2020-10-15 00:47:12",
+        "penjualan": "81681.37",
+        "pesanan": 18
+    },
+    {
+        "id": 998,
+        "date_time": "2020-08-25 08:09:27",
+        "penjualan": "46886.85",
+        "pesanan": 16
+    },
+    {
+        "id": 999,
+        "date_time": "2020-08-05 10:42:36",
+        "penjualan": "80526.40",
+        "pesanan": 18
+    },
+    {
+        "id": 1000,
+        "date_time": "2020-11-27 20:37:44",
+        "penjualan": "74067.40",
+        "pesanan": 11
+    }
+]

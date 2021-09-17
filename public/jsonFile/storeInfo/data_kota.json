@@ -1,0 +1,71 @@
+[{
+    "id": 1,
+    "nama": "Buzzbean",
+    "jumlah": 5,
+    "nominal": "197927.53",
+    "kota": "Kirovgrad"
+},
+{
+    "id": 2,
+    "nama": "Dynava",
+    "jumlah": 5,
+    "nominal": "163308.34",
+    "kota": "Kampungraja"
+},
+{
+    "id": 3,
+    "nama": "Voomm",
+    "jumlah": 4,
+    "nominal": "44740.13",
+    "kota": "Uyen Hung"
+},
+{
+    "id": 4,
+    "nama": "Tazz",
+    "jumlah": 3,
+    "nominal": "15804.96",
+    "kota": "Burbank"
+},
+{
+    "id": 5,
+    "nama": "Skidoo",
+    "jumlah": 1,
+    "nominal": "205882.87",
+    "kota": "Vingåker"
+},
+{
+    "id": 6,
+    "nama": "Livepath",
+    "jumlah": 3,
+    "nominal": "72975.29",
+    "kota": "Bërxull"
+},
+{
+    "id": 7,
+    "nama": "Zoombox",
+    "jumlah": 2,
+    "nominal": "198843.88",
+    "kota": "Bunia"
+},
+{
+    "id": 8,
+    "nama": "Gigashots",
+    "jumlah": 5,
+    "nominal": "120472.30",
+    "kota": "Winong"
+},
+{
+    "id": 9,
+    "nama": "Dazzlesphere",
+    "jumlah": 3,
+    "nominal": "220603.23",
+    "kota": "Bangunsari"
+},
+{
+    "id": 10,
+    "nama": "Chatterbridge",
+    "jumlah": 3,
+    "nominal": "10106.02",
+    "kota": "Buena Esperanza"
+}
+]
